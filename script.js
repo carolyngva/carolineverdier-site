@@ -36,6 +36,14 @@ async function submitWaitlist(event) {
   const form = event.currentTarget;
   const button = form.querySelector("button[type='submit']");
   const originalText = button.textContent;
+  const hp = form.querySelector(".hp");
+
+  if (hp && hp.value) {
+    form.reset();
+    button.textContent = "Inscription confirmée";
+    setMessage(form, "Merci. Tu es bien inscrite sur la liste d'attente Love Blueprint.");
+    return;
+  }
 
   setMessage(form, "");
   button.disabled = true;

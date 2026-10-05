@@ -258,6 +258,15 @@ h3 {
   color: #f1a3ad;
 }
 
+.hp {
+  position: absolute;
+  left: -9999px;
+  opacity: 0;
+  height: 0;
+  width: 0;
+  pointer-events: none;
+}
+
 .final-copy p,
 .program-intro p,
 .section-heading p,
