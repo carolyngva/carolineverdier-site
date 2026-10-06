@@ -81,3 +81,31 @@ async function submitWaitlist(event) {
 document.querySelectorAll(".waitlist-form").forEach((form) => {
   form.addEventListener("submit", submitWaitlist);
 });
+
+const stepCards = Array.from(document.querySelectorAll(".steps-grid article"));
+
+if (stepCards.length) {
+  const revealCards = () => {
+    stepCards.forEach((card, index) => {
+      window.setTimeout(() => {
+        card.classList.add("is-visible");
+      }, index * 180);
+    });
+  };
+
+  if ("IntersectionObserver" in window) {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((entry) => entry.isIntersecting)) {
+          revealCards();
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.22 },
+    );
+
+    observer.observe(document.querySelector(".steps-grid"));
+  } else {
+    revealCards();
+  }
+}
