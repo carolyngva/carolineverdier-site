@@ -163,6 +163,8 @@ h3 {
 
 .hero-visual {
   align-self: center;
+  grid-column: 1;
+  grid-row: 1;
 }
 
 .hero-visual img {
@@ -176,6 +178,8 @@ h3 {
 
 .hero-content {
   display: grid;
+  grid-column: 2;
+  grid-row: 1;
   gap: clamp(32px, 5vw, 64px);
   max-width: 760px;
 }
@@ -635,6 +639,12 @@ input:focus {
 
   .hero-grid {
     align-items: start;
+  }
+
+  .hero-content,
+  .hero-visual {
+    grid-column: auto;
+    grid-row: auto;
   }
 
   .program-intro {
