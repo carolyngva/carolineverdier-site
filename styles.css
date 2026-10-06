@@ -663,12 +663,17 @@ input:focus {
     padding: 7vh 0 4vh;
   }
 
-  .hero-kicker {
-    max-width: 260px;
+  .hero-content {
+    order: 1;
   }
 
   .hero-visual {
+    order: 2;
     justify-self: start;
+  }
+
+  .hero-kicker {
+    max-width: 260px;
   }
 
   .hero-visual img {
