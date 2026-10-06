@@ -67,10 +67,22 @@ http://localhost:8791/love-blueprint.html
 npm run build
 ```
 
+Le build reconstruit `dist/` depuis les fichiers source et `assets/`.
+
+## Déploiement automatique
+
+Le workflow GitHub Actions `.github/workflows/deploy.yml` déploie automatiquement sur Cloudflare à chaque push sur `main`.
+
+Secrets GitHub requis :
+
+- `CLOUDFLARE_API_TOKEN`
+- `CLOUDFLARE_ACCOUNT_ID`
+
+Le script `npm run deploy` lance d'abord `npm run build` via `predeploy`, puis `wrangler deploy`.
+
 ## Déploiement restant
 
 1. Activer le workflow n8n `ETa718jy79OLOFBf`.
 2. Tester formulaire -> n8n -> NocoDB -> Mautic.
-3. Déployer le Worker Cloudflare `carolineverdier-site`.
-4. Retirer la redirection Cloudflare actuelle `carolineverdier.com` -> `latelierdelucette.com`.
-5. Pointer `carolineverdier.com` vers ce Worker / projet.
+3. Retirer la redirection Cloudflare actuelle `carolineverdier.com` -> `latelierdelucette.com` si elle existe encore.
+4. Pointer `carolineverdier.com` vers ce Worker / projet.
