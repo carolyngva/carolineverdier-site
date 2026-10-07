@@ -7,6 +7,8 @@ const dist = path.join(root, "dist");
 const files = [
   "index.html",
   "love-blueprint.html",
+  "mentions-legales.html",
+  "politique-confidentialite.html",
   "styles.css",
   "script.js",
   "favicon.svg",

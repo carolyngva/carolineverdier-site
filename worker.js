@@ -1,6 +1,8 @@
 const PUBLIC_FILES = new Set([
   "/index.html",
   "/love-blueprint.html",
+  "/mentions-legales.html",
+  "/politique-confidentialite.html",
   "/styles.css",
   "/script.js",
   "/favicon.svg",
@@ -17,6 +19,16 @@ export default {
 
     if (url.pathname === "/love-blueprint") {
       url.pathname = "/love-blueprint.html";
+      return env.ASSETS.fetch(new Request(url, request));
+    }
+
+    if (url.pathname === "/mentions-legales") {
+      url.pathname = "/mentions-legales.html";
+      return env.ASSETS.fetch(new Request(url, request));
+    }
+
+    if (url.pathname === "/politique-confidentialite") {
+      url.pathname = "/politique-confidentialite.html";
       return env.ASSETS.fetch(new Request(url, request));
     }
 

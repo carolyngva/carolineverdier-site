@@ -887,6 +887,88 @@ input:focus {
   margin: 0;
 }
 
+.legal-header {
+  padding: clamp(20px, 4vw, 48px) clamp(20px, 4vw, 64px) clamp(56px, 9vw, 120px);
+  background:
+    radial-gradient(ellipse at 78% 14%, rgba(143, 29, 44, 0.28), transparent 34%),
+    linear-gradient(135deg, #070505, #1a1010 48%, #0d0908 100%);
+  border-bottom: 1px solid rgba(184, 150, 78, 0.24);
+}
+
+.legal-nav {
+  margin-bottom: clamp(72px, 12vw, 150px);
+}
+
+.legal-hero {
+  max-width: 960px;
+}
+
+.legal-hero h1 {
+  margin-bottom: 24px;
+}
+
+.legal-hero p:last-child {
+  color: var(--grey-soft);
+  font-family: var(--text);
+  font-size: 0.92rem;
+  letter-spacing: 0.02em;
+}
+
+.legal-main {
+  display: grid;
+  gap: 22px;
+  padding: clamp(40px, 7vw, 90px) clamp(20px, 4vw, 64px);
+  background:
+    linear-gradient(rgba(246, 240, 234, 0.72), rgba(246, 240, 234, 0.72)),
+    url("/assets/ombre-texture (1).jpg") center / cover fixed no-repeat,
+    var(--paper);
+  color: var(--black);
+}
+
+.legal-card {
+  max-width: 980px;
+  width: 100%;
+  margin: 0 auto;
+  padding: clamp(24px, 4vw, 44px);
+  background: rgba(244, 244, 241, 0.84);
+  border: 1px solid rgba(87, 42, 37, 0.16);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-soft);
+}
+
+.legal-card h2 {
+  margin-bottom: 20px;
+  color: var(--red);
+  font-size: clamp(20px, 2vw, 30px);
+  line-height: 1.08;
+  letter-spacing: 0.01em;
+}
+
+.legal-card p,
+.legal-card li {
+  color: rgba(11, 9, 9, 0.78);
+}
+
+.legal-card p:last-child,
+.legal-card ul:last-child {
+  margin-bottom: 0;
+}
+
+.legal-card a {
+  color: var(--red);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+.legal-card ul {
+  margin: 0;
+  padding-left: 1.2em;
+}
+
+.legal-card li + li {
+  margin-top: 8px;
+}
+
 @media (max-width: 1080px) {
   .hero-grid,
   .manifesto,
