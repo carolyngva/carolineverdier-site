@@ -2,6 +2,7 @@ const PUBLIC_FILES = new Set([
   "/index.html",
   "/love-blueprint.html",
   "/mentions-legales.html",
+  "/conditions-generales-de-vente.html",
   "/politique-confidentialite.html",
   "/styles.css",
   "/script.js",
@@ -24,6 +25,11 @@ export default {
 
     if (url.pathname === "/mentions-legales") {
       url.pathname = "/mentions-legales.html";
+      return env.ASSETS.fetch(new Request(url, request));
+    }
+
+    if (url.pathname === "/conditions-generales-de-vente") {
+      url.pathname = "/conditions-generales-de-vente.html";
       return env.ASSETS.fetch(new Request(url, request));
     }
 
