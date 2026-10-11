@@ -8,6 +8,7 @@ const files = [
   "index.html",
   "love-blueprint.html",
   "mentions-legales.html",
+  "conditions-generales-de-vente.html",
   "politique-confidentialite.html",
   "styles.css",
   "script.js",
