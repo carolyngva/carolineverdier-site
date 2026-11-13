@@ -22,24 +22,10 @@
 .jtm-quote blockquote { margin: 0 auto; max-width: 1000px; font-size: clamp(27px, 3vw, 44px); line-height: 1.22; }
 .jtm-quote em { color: var(--red); }
 
-.jtm-offers { background: #181210; }
-.jtm-offer-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 30px; margin-top: 48px; }
-.jtm-offer { padding: clamp(24px, 3vw, 44px); border: 1px solid var(--line-dark); }
-.jtm-offer-vip { border-color: var(--ht-gold); }
-.jtm-offer h3 { color: var(--ht-gold); }
-.jtm-price { font-size: clamp(48px, 5vw, 76px); line-height: 1.1; margin-bottom: 30px; }
-.jtm-price span { font: 400 16px/1.5 var(--text); }
-.jtm-offer ul { padding-left: 1.1em; margin-bottom: 0; color: #d2cbc6; }
-.jtm-offer li + li { margin-top: 16px; }
-.jtm-couple-note { max-width: 800px; margin: 40px 0 0; color: #d2cbc6; }
 .jtm-disclaimer { padding-block: 36px; border-top: 1px solid var(--line-dark); font-size: 18px; }
 .jtm-disclaimer summary { cursor: pointer; color: var(--ht-gold); padding-block: 12px; }
 .jtm-disclaimer .ht-prose { max-width: 1000px; margin-top: 24px; }
 .jtm-disclaimer summary:focus-visible { outline: 2px solid var(--ht-gold); outline-offset: 6px; }
-
-@media (max-width: 900px) {
-  .jtm-offer-grid { grid-template-columns: 1fr; }
-}
 
 @media (max-width: 600px) {
   .jtm-page .ht-hero h1 { font-size: 18vw; }
