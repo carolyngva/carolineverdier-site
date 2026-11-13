@@ -984,6 +984,21 @@ input:focus {
   margin-top: 8px;
 }
 
+.home-oracle {
+  display: grid;
+  grid-template-columns: minmax(0, .8fr) minmax(0, 1.1fr);
+  gap: clamp(32px, 6vw, 90px);
+  align-items: center;
+  padding: clamp(64px, 8vw, 120px) max(24px, 8vw);
+  background: radial-gradient(ellipse at 100% 100%, rgba(143, 29, 44, .3), transparent 65%), var(--black-soft);
+}
+
+.home-oracle > img { display: block; width: 100%; max-width: 480px; height: auto; border: 1px solid rgba(184, 150, 78, .3); }
+.home-oracle h2 { font-size: clamp(32px, 3.6vw, 54px); line-height: 1.1; }
+.home-oracle h2 em { font-family: var(--title); font-weight: 400; text-transform: none; font-size: 1.2em; }
+.home-oracle p:not(.eyebrow) { max-width: 620px; color: #d2cbc6; font-size: clamp(21px, 1.85vw, 27px); }
+.home-oracle .inline-button { margin-top: 12px; }
+
 @media (max-width: 1080px) {
   .hero-grid,
   .manifesto,
@@ -1010,6 +1025,8 @@ input:focus {
 }
 
 @media (max-width: 760px) {
+  .home-oracle { grid-template-columns: 1fr; }
+
   .hero {
     min-height: auto;
     background:

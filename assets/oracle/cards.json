@@ -1,0 +1,679 @@
+{
+  "cards": [
+    {
+      "numero": 1,
+      "nom": "Vision",
+      "slug": "vision",
+      "image": "/images/cards/vision.jpg",
+      "mots_cles": "Intuition - S'ouvrir à plus grand - Appel de l'Âme",
+      "essence": "C’est le début du voyage. Le portail vibratoire à traverser, malgré les peurs, pour se connecter à sa vérité. Cet endroit de reconnexion à son âme, c’est le lieu de toutes les réponses, là où plus aucune question ne compte. Cette carte, comme un aimant, attire en son centre… l’appel de l’âme est un appel qui ne se refuse pas. Mais pour pouvoir avancer sur ce chemin, il faut d’abord avoir accès à un autre regard pour voir au-delà des apparences et lever le voile de l’illusion. Car l’intuition ne suit pas la logique humaine, mais une logique divine que le mental ne peut pas toujours comprendre. C’est le signe qu’il y a des conditionnements à lâcher pour renaître à soi-même et accepter cette nouvelle réalité.",
+      "ombre": "Tant que tu regardes ta situation depuis le même espace en toi, celle-ci ne pourra pas évoluer. T’ouvrir à plus grand, c’est lâcher prise sur ce que tu connais déjà. La réponse que tu cherches ne viendra pas de la réflexion. En étant enfermé dans ton mental pour trouver la sortie, tu te perds dans le contrôle et la plainte. Et pendant ce temps, la Vie te malmène. Du moins, c’est l’impression que tu t’en fais. Il est temps de sortir de ta posture de victime. Ne passe pas des heures à chercher la réponse ou à essayer de comprendre ce qu’il se passe. Pose l’intention d’entendre le message de ton intuition. Attends. Calme ton esprit et ouvre ton coeur. Reçois. Agis.",
+      "lumiere": "Ton intuition a déjà parlé et tu l’as entendue. Il ne te reste plus qu’à l’écouter et suivre son conseil. C’est ton chemin, tu peux le parcourir avec confiance, tu es soutenue et guidée. Lorsque tu choisis d’écouter ta vérité, tu peux créer à partir de ta puissance et de ton potentiel illimités. Fais-toi confiance, même (et surtout) si tu ne comprends pas encore tous les tenants et les aboutissants de la direction que tu prends. Garde cette connexion à tes sensations et à ton corps pour te guider, c’est ta clé.",
+      "questions": [
+        "Quel point de vue qui semble “irrationnel” peux-tu suivre ?",
+        "Quelle est la réponse illogique que tu as besoin de voir ?",
+        "Comment ce sera une fois une que tu auras dépassé cette situation ?"
+      ],
+      "zero_bullshit": "Ecoute ton coeur bordel! Tu sais la petite voix qui veut te faire faire des trucs pas logiques, je sais que tu l’entends, c’est elle que tu dois suivre, pas ce que te disent tes pensées. Ton mental te ment. Il te raconte de la merde en permanence pour pas que tu te fasses bouffer. Par quoi ? On ne sait pas ! On n’est plus au pléistocène et ce serait cool que tu t’en rendes compte. T’es pas venue ici pour enfiler des perles alors écoute ton âme et fais ce que tu as à faire. Purée. Ah oui j’oubliais, l’Univers te parle mais il a pas WhatsApp, alors sois attentive aux signes."
+    },
+    {
+      "numero": 2,
+      "nom": "Fréquence originelle",
+      "slug": "frequence-originelle",
+      "image": "/images/cards/frequence-originelle.jpg",
+      "mots_cles": "Alignement - Contribution - Mission d’Âme",
+      "essence": "C’est comme être à la maison, dans son foyer, entouré d’amour universel. Se connecter à cette fréquence permet de ressentir la magie de la vie. Il n’y a aucun doute possible : être connecté à cette vibration, c’est se rapprocher de la Source et se sentir à sa place. Cette carte parle de notre vibration d’êtres spirituels, de notre unicité et de comment elle se traduit lors de notre passage dans ce monde de matière. Cette carte invite à créer sa vie à partir de soi, ses désirs, ses ambitions et sa magie intérieure pour se sentir alignée. À soi et à plus grand que soi.",
+      "ombre": "Tu n’es plus sur ta voie. Tu as perdu ton axe. C’est ok, ça arrive à tout le monde. C’est le moment de te ré-aligner. Sois honnête avec toi-même et fais la liste de tout ce que tu as besoin d’aligner. Sans rien te cacher. Choisis de te reconnecter à ta vibration originelle pour être dans ta mission et contribuer au monde.",
+      "lumiere": "Tu sais ce qui est juste pour toi. Tu le sais, alors écoute-le. N’essaie pas d'accommoder les autres, de t’adapter. Ne te laisse pas dévier de ta mission. Reste connectée à ton ambition, à tes rêves à toi, sans prêter attention à ce que peut en dire l’extérieur. Tu sais exactement ce que veut dire te sentir à ta place, être à l’écoute de ton âme pour contribuer à toi et plus grand que toi. Garde cette connexion active et puissante, c’est elle qui te mènera exactement là où tu as besoin d’aller maintenant.",
+      "questions": [
+        "Comment peux-tu servir et contribuer ?",
+        "Quels sont tes vrais désirs et objectifs ? Qu’y a-t-il sur ta bucket list ?",
+        "Qu’est-ce qui a besoin d’être aligné aujourd’hui dans ta vie ?"
+      ],
+      "zero_bullshit": "Écoute-moi bien: tu es la manifestation du Cosmos sur Terre et ça, ça n’est pas à remettre en question ! Alors reconnecte-toi à tes vrais envies et désirs, pas à ceux du voisin ! Tu es unique alors arrête de copier car c’est seulement ainsi que tu pourras être dans ta mission et contribuer."
+    },
+    {
+      "numero": 3,
+      "nom": "Incarnation",
+      "slug": "incarnation",
+      "image": "/images/cards/incarnation.jpg",
+      "mots_cles": "Passage - Choix - Décision",
+      "essence": "Le moment représenté par cette carte est le passage de l’immatériel au matériel, de l’Esprit à la Matière, de l’idée à la réalisation. Chaque âme qui s’incarne a fait ce choix. Il est important de s’en souvenir. Elle vient chargée des apprentissages de ses vies antérieures et des héritages de ses lignées. Ce qui comporte autant de fardeaux que de cadeaux, à libérer et à déployer. D’une manière générale, cette carte invite à questionner nos propres passages, et plus précisément celui entre la décision et l’action, celui qui nous permet de vivre à notre plein potentiel.",
+      "ombre": "Tu n’as pas vraiment les pieds sur terre et donc tu ne t’engages pas dans ce que tu fais. Tu te complais à vivre avec la tête dans les nuages mais tu es en train de passer à côté de la vie. Le but de ta venue sur Terre, c’est d’expérimenter la matière. Vivre c’est réaliser, c’est se réaliser. Tu sembles garder une certaine nostalgie de ce qu’était ton âme avant de s’incarner: illimitée, infinie, libre. Il est temps que tu te rappelles que tu as choisi de t’incarner, ici et maintenant. Décide, une bonne fois pour toutes, de descendre dans la matière. Tes qualités intrinsèques d’âmes sont toujours disponibles ici. Tu es libre et illimitée.",
+      "lumiere": "Te mettre en action et faire passer tes idées du stade de la réflexion au stade de la concrétisation, tu sais très bien le faire! Cette carte t’invite à prendre conscience que cette ressource est déjà en toi, à ta disposition et que c’est cela qui va t’aider aujourd’hui. Il te suffit simplement de reconnaître l’endroit dans ta vie ou ton entreprise qui a besoin d’être mis dans la matière. Ta capacité à avancer droit devant sans te retourner lorsque tu l’as décidé est ton plus grand atout maintenant. Sers-t’en!",
+      "questions": [
+        "Quel est le choix que tu ne fais pas ?",
+        "Quelle place donnes-tu à tes propres décisions dans ta vie ?",
+        "Qu’es-tu venue incarner ici et maintenant ?"
+      ],
+      "zero_bullshit": "Tu as déjà choisi de venir sur Terre. Alors arrête de le remettre/cela en question et de repousser les vrais choix. Il y a une décision que tu repousses et que tu dois prendre, alors prends-la. Décide putain ! Par amour pour toi."
+    },
+    {
+      "numero": 4,
+      "nom": "L'illusion de la séparation",
+      "slug": "l-illusion-de-la-separation",
+      "image": "/images/cards/l-illusion-de-la-separation.jpg",
+      "mots_cles": "Immobilisme - Blocage - Action",
+      "essence": "La séparation n’est qu’une illusion de l’esprit, une histoire que nous nous racontons, alors que tout est connecté à tout. Seulement, c’est quelque chose que nous oublions trop souvent et trop facilement. Cette carte vient pointer ces moments pendant lesquels nous nous sentons seules et incomprises et restons immobiles. L’action est nécessaire malgré la peur. Et si la Lumière est toujours là, c’est bien à nous de lui ouvrir les rideaux pour qu’elle puisse passer.",
+      "ombre": "Tu te sens bloquée et figée dans la situation que tu vis. Tu as l’impression que le problème vient de l’extérieur ou que ton objectif est encore très éloigné de toi, voire impossible à atteindre. Reprends ton pouvoir sur cette situation et sors de ta posture de victime. Tu te comportes comme si tu voyais un cadeau sous le sapin et que tu pleurais de ne pas l’avoir entre les mains. Alors que tu n’as qu’à te lever pour aller le chercher. La seule manière de faire bouger les choses maintenant, c’est que toi, tu bouges.",
+      "lumiere": "Tu éprouves une sensation de lenteur et de ralenti et tu n’aimes pas cela. L’objectif n’est pas aussi loin que tu l’imagines. Même si tout ne va pas aussi vite que tu le voudrais, il est important que tu continues à avancer, un pas après l’autre.",
+      "questions": [
+        "Quel est le prochain pas que tu peux faire ?",
+        "Qu’est-ce qui est déjà dans ta vie et pour quoi tu pourrais avoir de la gratitude ?",
+        "Et si c’était facile, ce serait comment ?"
+      ],
+      "zero_bullshit": "Qu’est-ce que tu attends ? Le déluge ? C’est déjà passé. L’Atlantide aussi c’est fini. Donc t’es gentille, tu mets tes Converse ou tes Louboutin et tu avances parce que tu es la seule qui peut débloquer la situation. En clair : bouge ton cul !"
+    },
+    {
+      "numero": 5,
+      "nom": "Chasse au trésor",
+      "slug": "chasse-au-tresor",
+      "image": "/images/cards/chasse-au-tresor.jpg",
+      "mots_cles": "Magie personnelle - Découverte - Aventure",
+      "essence": "Partir pour une chasse au trésor, c’est partir à l’aventure sans savoir ce que nous allons trouver, ni même savoir si nous allons trouver quelque chose. Se mêlent l’excitation du départ, l’espoir de la découverte et aussi parfois la peur de l’échec et de l’inconnu. C’est une quête qui commence et elle ne mène qu’à un seul endroit avec certitude : au cœur de soi pour ramener les trésors qui sont les nôtres. Honorons ces qualités qui nous rendent uniques et singulières.",
+      "ombre": "Si tu ne reconnais pas ta magie personnelle, elle se change en mauvais sort et se retourne contre toi. Ta magie personnelle, c’est ta manière unique d’observer et de transformer une situation. Il n’y a que toi qui puisses faire, penser ou dire cela et de cette façon là. Pars en quête de ton unicité ! C’est un chemin qui sera semé d'embûches et d’obstacles intérieurs à surmonter. Arme-toi de courage et lance-toi dans la plus belle aventure qui soit : celle qui te mènera à la découverte de tes propres trésors, au cœur de toi.",
+      "lumiere": "C’est une nouvelle aventure qui se présente à toi. Elle porte les promesses de magnifiques trésors. Laisse-toi porter par la joie et l’excitation. Fais ce que tu sais faire de mieux en étant juste toi. Même si tu ne sais pas encore exactement où tu vas, laisse-toi guider. Par ton âme, par ton intuition, par toi-même. Ton cœur sait/connaît le chemin.",
+      "questions": [
+        "Qu’est-ce que tu sais faire tellement facilement en étant seulement toi-même que tu ne comprends pas pourquoi les autres n’y arrivent pas ?",
+        "Si ta meilleure amie était dans ta situation, qu’est-ce que tu lui conseillerais ?",
+        "Que te dis ton cœur ?"
+      ],
+      "zero_bullshit": "Tu es unique, tu le sais. Il est temps que tu poses des mots sur ta magie personnelle. C’est la plus belle aventure qui soit. Elle t’attends. Lance-toi. Assume tes dons !"
+    },
+    {
+      "numero": 6,
+      "nom": "La puissance du dragon",
+      "slug": "la-puissance-du-dragon",
+      "image": "/images/cards/la-puissance-du-dragon.jpg",
+      "mots_cles": "Ombres - Courage - Confrontation",
+      "essence": "Le dragon est un gardien imposant et impressionnant. Ce qu’il garde/protège est à la mesure de sa puissance. Il fait peur et pour surmonter son épreuve, il faut s'armer de courage et oser lui faire face. Pour triompher, nous devons terrasser nos propres démons intérieurs. Et si cette carte est la promesse d’une puissance encore jamais égalée, elle nous parle aussi du courage nécessaire pour y accéder.",
+      "ombre": "Lorsque le dragon est contrôlé par ses pulsions d’ego, il détruit tout sur son passage. Ton ego est hors de contrôle et juge à tout va. Trop de jugement envers toi-même. Trop de jugement envers les autres. Et ce puissant juge détruit ton estime de toi et ta relation aux autres. Rends-toi compte que même si tu veux “bien faire” ou “faire pour aider”, tu es encore dans le jugement de ce qui est bien pour toi ou pour l’autre. Ce n’est pas ta place. Il est temps de tourner ton regard vers l’intérieur pour faire face à tes démons.",
+      "lumiere": "Lorsque le dragon est à tes côtés, tu es protégée. Quelque chose de fort s’annonce. Ton courage, ta puissance et même tes ombres sont tes alliés dans ce projet. La volonté de faire face sans reculer t’aidera vraiment à transformer la situation actuelle en la réussite que tu espères. Sur ce chemin, tu accèdes à ta sagesse, à ta puissance et à ta capacité de transformation. C’est un chemin, certes confrontant, mais qui va t’amener au cœur de toi et te permettre de rayonner à la mesure de tes ambitions.",
+      "questions": [
+        "A quoi dois-tu faire face aujourd’hui ?",
+        "Quelle part de toi manque de courage et comment pourrais-tu la rassurer ?",
+        "Sur quoi dois-tu lâcher le jugement ?"
+      ],
+      "zero_bullshit": "Il n’y a pas de raccourci. Fais face à tes ombres, à ce que tu caches et à ce qui te fait honte. Je sais, ça fait mal mais c’est nécessaire. Chaque fois que tu déploies le courage intérieur de regarder tes ombres en face, tu déploies ta puissance."
+    },
+    {
+      "numero": 7,
+      "nom": "Lignées de pouvoir",
+      "slug": "lignees-de-pouvoir",
+      "image": "/images/cards/lignees-de-pouvoir.jpg",
+      "mots_cles": "Eau - Émotion - Mémoire",
+      "essence": "Au centre de la carte, il y a un bassin dans lequel coule une source d’eau millénaire. Elle porte en elle les mémoires du passé et les messages qu’il est nécessaire d’écouter. L’eau symbolise aussi les émotions. Lorsqu’elle stagne, elle pourrit. Elle a besoin de circuler avec fluidité pour rester pure. Elle invite donc à revisiter les émotions cristallisées pour les libérer. Cette carte est également associée à une émotion sourde qu’Arouna Lipschitz a magnifiquement nommée “La nostalgie de l’ailleurs”, qui est liée à la mémoire de l’unité avant notre incarnation.",
+      "ombre": "Une émotion du passé s’est cristallisée et fait obstacle aujourd’hui dans cette situation. Il est important de t’y re-connecter pour la purifier, la nettoyer, la libérer. L’oracle te propose d’effectuer un rituel de guérison par l’eau. Laisse ton imagination te guider vers la pratique qui te conviendra le mieux. Porte attention aux mots et aux images qui te viennent spontanément. Un rituel est un moment simple pour mettre de la conscience sur l’émotion cristallisée et décider en conscience de t’en libérer.",
+      "lumiere": "Plonge dans tes mémoires car elles renferment la clé que tu cherches. Remonte dans ton passé ou dans tes vies antérieures. Tu y trouveras l’accès à ta magie et à l’inspiration divine. Tu peux t’appuyer sur ta famille d’âme et ta communauté qui vibrent à l’unisson avec toi. Rapproches-toi des personnes qui te ressemblent.",
+      "questions": [
+        "De quoi as-tu besoin de te souvenir pour aller de l’avant ?",
+        "Quelle est ta relation à l’eau et quel parallèle peux-tu faire ?",
+        "Qui sont les personnes avec qui tu te sens profondément connectée ?"
+      ],
+      "zero_bullshit": "La réponse est dans l’eau. Est-ce une émotion cristallisée ? La tristesse et la nostalgie n’ont plus leur place dans ta vie. Est-ce une mémoire à reconnecter ? Est-ce un message à entendre ? Plonge dans le bassin et découvre ce qu’il doit te révéler. L’eau prend mille formes et c’est à toi de trouver celle qui te permettra d’accéder à ton pouvoir."
+    },
+    {
+      "numero": 8,
+      "nom": "La beauté de l'unité",
+      "slug": "la-beaute-de-l-unite",
+      "image": "/images/cards/la-beaute-de-l-unite.jpg",
+      "mots_cles": "Diversité - Sérénité - Rassembler",
+      "essence": "L’unité se crée lorsque nous sommes capables de rassembler ce qui est séparé. Et la beauté se révèle lorsque l’unité est retrouvée. L’arc-en-ciel est beau parce qu’il porte en lui toutes les couleurs qui, à la fois, sont distinctes et se fondent les unes aux autres. Dans la beauté de l’unité, nous trouvons la sérénité et la paix intérieure. Cette carte nous invite à regarder le monde dans ses ressemblances plutôt que dans ses différences.",
+      "ombre": "Tu te concentres sur ce qui ne va pas ensemble. Tu écartes certaines choses car tu les juges comme non cohérentes avec ton univers ou la personne que tu penses être. Cette carte t’invite à arrêter de compartimenter ce qui compose ton être et ta vie. Tu as besoin de rassembler ce qui est épars et de voir la beauté dans l'hétérogénéité.",
+      "lumiere": "Ta capacité à voir le beau est à mettre en action. Tel le photographe qui cherche la beauté dans le chaos de la vie, tu sais utiliser ton œil pour voir les harmonies dans ce qui te semble bordélique et sans lien. Regarde autour de toi et aide-toi de ta capacité à rassembler, pour faire des liens créatifs entre ce qui ne paraît pas s’assembler naturellement. Fais appel à l’innovatrice en toi pour avancer dans cette situation en créant un nouveau chemin avec ce qui est à ta disposition.",
+      "questions": [
+        "Quelles parties de ta vie pourrais-tu rassembler ?",
+        "Quelles sont les choses simples sur lesquelles tu peux t’émerveiller ?",
+        "Qu’est-ce que tu pourrais rassembler alors que tu as l’impression que ça ne va pas ensemble?"
+      ],
+      "zero_bullshit": "Arrête de chercher la différence. Apprends à voir les ressemblances, avec tes yeux et avec ton cœur. Il est temps d’arrêter de diviser pour pouvoir enfin rassembler. Regarde la beauté qui est déjà présente et inspire-la pour ressentir la sérénité."
+    },
+    {
+      "numero": 9,
+      "nom": "Le feu sacré",
+      "slug": "le-feu-sacre",
+      "image": "/images/cards/le-feu-sacre.jpg",
+      "mots_cles": "Énergie vitale - Canaliser - Concrétiser",
+      "essence": "Cette carte représente l’énergie de vie qui nous anime et qui nous donne l’élan nécessaire pour entreprendre n’importe quelle action importante à nos yeux. Dans le corps, le feu sacré part du sacrum et s’enroule le long de la colonne vertébrale jusqu’au sommet du crâne. La spécificité de cette énergie est d’avoir besoin d’une direction précise pour pouvoir concrétiser avec force. Sans être canalisée, elle risque de s’éteindre ou de nous consumer de l’intérieur sans que nous puissions réaliser nos vies et nos rêves.",
+      "ombre": "Tu te sens prête à imploser mais tu ne sais pas quoi faire de cette énergie que tu ressens dans ton ventre et qui ne demande qu’à sortir. Tu l’empêches de circuler parce que sa puissance te fait peur. Le message de la carte est clair : canalise-la en lui donnant une direction. Libère ton feu sacré pour créer ta vie et avoir la capacité de réaliser pleinement tes potentiels.",
+      "lumiere": "C’est le moment de t’engager dans ce projet qui te tient à cœur et qui a du sens pour toi. Tu sais déjà où tu veux aller. N’aie pas peur de t’épuiser pour le réaliser. Ce projet n’est pas trop grand pour toi. Tu as déjà toute l’énergie nécessaire, et elle ne demande qu’à être canalisée. Le feu sacré est inépuisable.",
+      "questions": [
+        "Qu’est-ce qui demande à être créé à partir de cette énergie ?",
+        "Quelle direction vas-tu prendre ?",
+        "Quelle stratégie vas-tu mettre en place pour tenir ton cap?"
+      ],
+      "zero_bullshit": "Arrête de retenir ton énergie. Elle a besoin de sortir. Canalise-la avec intention. Le feu sacré va te consumer si tu ne le libères pas et te détruire si tu le laisses partir dans tous les sens. Choisis une direction et agis ! Tu n’as pas une seconde à perdre !"
+    },
+    {
+      "numero": 10,
+      "nom": "Le chaos",
+      "slug": "le-chaos",
+      "image": "/images/cards/le-chaos.jpg",
+      "mots_cles": "Dispersion - Désorientation - Demander de l’aide",
+      "essence": "Ça grouille, ça bouge, c’est le bordel, ça part dans tous les sens. Devant tant de possibilités, dont aucune ne semble balisée, la peur et la sensation d’être perdue prennent le dessus. Il y a des dizaines de chemins, mais aucun n’est connu, et la première réaction est de s’arrêter alors qu’il serait tellement plus simple de suivre quelqu’un qui sait comment avancer. Le trouble et les doutes participent à la sensation de désorientation. L’ampleur de la nouveauté donne l’apparence du chaos, mais c’est seulement l'œil non averti qui ne voit pas encore la cohérence du tout. L’ordre naît du chaos.",
+      "ombre": "Pour le moment, tu fais face au chaos mais tu n’avances pas, paralysée par ce qui te semble être un monde inconnu. C’est parce que tu t’entêtes à vouloir agir seule. Trouve quelqu’un pour te guider et plonge avec lui dans cette frénésie. C’est en t’immergeant dans le chaos que tu découvriras qu’il n’est qu’apparent.",
+      "lumiere": "Tu as déjà placé certaines pièces. Mais comme dans le tangram lorsque tu te retrouves bloquée, tu constates que ton agencement ne mène à rien. La seule solution, c’est de remélanger toutes les pièces et de recommencer différemment. Fais table rase de ce que tu as construit jusqu’à présent et qui te maintient dans l’impasse. Dans ce chaos volontairement créé, active le mode tempête de cerveau (Brainstorm). Cherche toutes les idées, tout ce à quoi tu n’as pas pensé. Change de point de vue. Utilise ton joker “appel à un ami”.",
+      "questions": [
+        "Quelles sont les personnes ressources à ta disposition ?",
+        "A quoi ressemblerait cette situation si tu l’écrivais à partir d’une page blanche?",
+        "Comment peux-tu avoir de la gratitude pour le chaos qui se dresse devant toi ?"
+      ],
+      "zero_bullshit": "Demande de l’aide ! C’est une force de savoir le faire. Trouve-toi un mentor. Arrête d’essayer de te montrer forte en faisant seule. Tends la main et attrape celle qui est la plus à même de te faire embrasser le chaos pour laisser émerger l’harmonie."
+    },
+    {
+      "numero": 11,
+      "nom": "La clé",
+      "slug": "la-cle",
+      "image": "/images/cards/la-cle.jpg",
+      "mots_cles": "Ego - Puissance - Humilité",
+      "essence": "Cette carte incarne le sentiment que nous pouvons ressentir devant une porte fermée impossible à ouvrir. C’est notre ego qui nous fait croire que nous devons absolument l’ouvrir alors qu’il existe d’autres moyens de la franchir. Il y a une serrure, et la solution est l’humilité. Nous devons avoir conscience à la fois de notre puissance et de notre impuissance. A cet instant, nous pouvons reprendre notre juste taille et passer par le trou de la serrure.",
+      "ombre": "Ton ego prend beaucoup trop de place. Aujourd’hui, tu as peur de tout détruire en laissant exploser ta puissance. La vraie humilité, c’est de reconnaître ta puissance et ton impuissance. Parce que oui, tu es puissante mais pas plus que le reste de l’humanité. Rappelle-toi que tu es un être créateur mais seulement de ta propre vie. Reprends ta place.",
+      "lumiere": "Tu es à un moment clé de ta vie qui va te permettre d’incarner encore plus ta puissance et de sentir que tu as déjà accès à cette énergie démentielle en toi. Tu es sur le seuil de la porte, n’aie pas peur de le franchir. Tant que tu avances avec humilité, être dans ta puissance permet de redonner leur pouvoir aux autres.",
+      "questions": [
+        "Quelle est la qualité qui te fait peur aujourd’hui mais que tu sais devoir incarner pour avancer ?",
+        "Dans quelle situation peux-tu rendre leur responsabilité aux autres ?",
+        "Comment le fait d’être dans ta puissance permet à ceux qui t’entourent d’incarner la leur ?"
+      ],
+      "zero_bullshit": "Arrête de te prendre pour Dieu. Tu n’es qu’un dieu parmi les autres dieux qui arpentent cette Terre. Ta puissance n’est pas supérieure à celle des autres alors il n’y a aucune raison d’en avoir peur. Connecte-toi à qui tu es vraiment, au-delà des constructions de ton égo."
+    },
+    {
+      "numero": 12,
+      "nom": "Sauter dans l'inconnu",
+      "slug": "sauter-dans-l-inconnu",
+      "image": "/images/cards/sauter-dans-l-inconnu.jpg",
+      "mots_cles": "Lâcher prise - Peur - Oser",
+      "essence": "Cette carte est une invitation, comme son nom l’indique, à aller vers l’inconnu. Rien n’est encore balisé mais une force invisible nous pousse dans cette direction. Ne pas savoir ce qui va arriver fait peur. Ne pas savoir comment y aller fait peur. C’est normal d’avoir peur mais même sans percevoir le bout du tunnel, mieux vaut se mettre en route plutôt que de rester paralysée ou de rebrousser chemin.",
+      "ombre": "Tu n’avances pas parce que tu veux tout savoir avant même de commencer. Tu essaies de tout comprendre, de tout anticiper, de fixer les variables. Ce besoin de tout contrôler te freine. Si tu continues comme ça, il ne va rien se passer de neuf dans tes projets : mêmes actions, mêmes résultats. Rappelle-toi que plus tu veux contrôler les circonstances, plus l’Univers te placera dans des situations inconfortables pour t’apprendre à lâcher prise. A ce stade, seul la chose que tu n’as pas encore faite, celle dont tu ignores l’issue, aura vraiment un impact pour toi. Jette-toi dans le vide, sans filet.",
+      "lumiere": "Ta capacité à sauter dans l’inconnu est ta force et c’est sur cela que tu peux t’appuyer aujourd’hui. Tu sais trouver le confort dans l’inconfort et avancer avec ta peur. Trouve la nouvelle action que tu n’as pas encore osée accomplir jusqu’à présent et vas-y.",
+      "questions": [
+        "Quelle partie de toi à besoin de connaître le \"comment faire\" avant même d'avoir commencé?",
+        "Quelle est cette action qui te fait peur ? (si tu n’as pas la réponse, repose-toi la question)",
+        "Que peux-tu faire que tu n’as pas encore essayé ?"
+      ],
+      "zero_bullshit": "Fais cette action qui te fait peur! De toute façon, quoiqu’il arrive, tu n’as pas le contrôle sur le résultat. Donc, soit tu réussis, soit tu apprends. Si tu ne sais pas ce que cela va donner, tu es au bon endroit."
+    },
+    {
+      "numero": 13,
+      "nom": "Sagesse des ancêtres",
+      "slug": "sagesse-des-ancetres",
+      "image": "/images/cards/sagesse-des-ancetres.jpg",
+      "mots_cles": "Héritage - Enseignement - Croyance",
+      "essence": "Cette carte est à l’image de Grand-mère Feuillage dans Pocahontas, l’esprit incarné dans un arbre qui représente la sagesse de la Terre. Celle qui s’éveille pour transmettre les secrets de son savoir. Celle qui enveloppe d’amour et de bienveillance, et qui offre la parole sage pour nous aider à trouver notre voie. Cette carte nous parle aussi de toutes ces petites choses qui ont été transmises, consciemment ou inconsciemment, par nos parents et nos grands-parents, et qui contiennent la graine de la connexion à nos ancêtres. L’invitation est de se connecter avec légèreté et créativité aux enseignements de nos lignées.",
+      "ombre": "Tu t’accroches à des croyances anciennes qui te desservent. Même si les anciens sont réputés sages, il est important de faire preuve de discernement pour savoir quand ce n’est pas ou plus le cas. Leurs mises en garde étaient relatives à leur époque. Peut-être qu’aujourd’hui, il est temps de réévaluer ce qu’ils t’ont transmis pour lâcher ce qui te pèse et ne garder que ce qui t’élève. Fais un tri dans tes croyances héritées et ne garde que celles qui sont justes pour toi.",
+      "lumiere": "Rappelle-toi des sages paroles que tu as entendues dans ton enfance. Rappelle-toi ces mots qui t’ont mis du baume au cœur. De là viennent des valeurs fondatrices sur lesquelles tu peux t’appuyer aujourd’hui. Parfois ces enseignements sont transmis au-delà des mots, alors rappelle-toi aussi des moments et des gestes qui ont compté. C’est en te connectant aux émotions et à l’invisible de ces instants que tu vas intégrer leur essence en toi. C’est la clé dont tu as besoin maintenant.",
+      "questions": [
+        "Quels sont les souvenirs d’enfance qui t’apportent de la joie ?",
+        "Qu’est-ce qui t’a été transmis par les anciens, sans que tu le saches ?",
+        "De quelle tradition te sens-tu proche ?"
+      ],
+      "zero_bullshit": "Ta réponse est dans ce qui t’a été transmis par tes ancêtres. Consciemment ou pas. Explore ce que tu as hérité de tes lignées et fais le tri, pour en extraire les cadeaux et virer les fardeaux."
+    },
+    {
+      "numero": 14,
+      "nom": "L'autre côté",
+      "slug": "l-autre-cote",
+      "image": "/images/cards/l-autre-cote.jpg",
+      "mots_cles": "Spiritualité - Traversée - Magie",
+      "essence": "L’île d’Avalon se dessine dans le brouillard. Il est temps d’entreprendre la traversée pour la rejoindre. En passant de l’autre côté, c’est la magie et le mystique qui nous attendent. C’est en transcendant nos doutes que l’appel de l’âme pourra être entendu. Le moment est venu de se reconnecter réellement à notre propre spiritualité. Et si toutes les voies mènent quelque part, c’est en s’engageant durablement sur une seule d’entre elles que le chemin s’ouvrira.",
+      "ombre": "Tu écoutes tes doutes plutôt que ton âme. Tu as peur de perdre pied avec la réalité, de devenir folle. Pourtant, c’est ta vraie nature que tu dois aller explorer, en passant la frontière du monde réel, pour rejoindre celui de l’invisible. Rappelle-toi que tu es un être spirituel qui fait une expérience humaine et pas l’inverse. C’est en intégrant cette information au niveau cellulaire que tu pourras expérimenter d’être libre et illimitée. Lorsque cette carte arrive en ombre, c’est que tu n’as pas encore vraiment entamé l’exploration de ta spiritualité, même si tu en es persuadée.",
+      "lumiere": "Tu sais déjà que la solution que tu cherches se trouve dans l’invisible. Il ne te reste qu’à choisir ton véhicule pour y aller : la méditation, les arts de la magie, la prière, les huttes de sudation, le voyage astral... Ce n’est pas le plus important, alors choisis la voie qui t’appelle et suis-la. Tu as besoin de mettre en place ta propre discipline pour te connecter à ta spiritualité. C’est le moment de ta journée où tu vas te mettre en lien avec ton âme pour l’écouter. De là viendront les messages que tu as besoin de recevoir.",
+      "questions": [
+        "Qu’est-ce qui t’attire ? Qu’est-ce qui te retient ?",
+        "Quelle est la voie spirituelle qui t’appelle ?",
+        "Quelle est la pratique dans laquelle tu décides de t’engager dès à présent ? Quelle routine peux-tu mettre en place ?"
+      ],
+      "zero_bullshit": "Être spirituelle, ce n’est pas seulement croire aux énergies et acheter trois cailloux pour les mettre sous ton oreiller. C’est aussi reconnaître cette part de toi et lui donner de la place, vraiment. Écoute-la pour avancer sereinement dans le monde. Ce n’est plus le moment de tergiverser. Médite et entends les messages de ton âme ! La magie t’attend de l’autre côté."
+    },
+    {
+      "numero": 15,
+      "nom": "Les guides",
+      "slug": "les-guides",
+      "image": "/images/cards/les-guides.jpg",
+      "mots_cles": "Protection - Confiance - Soutien",
+      "essence": "Ce qui est en bas est comme ce qui est en haut. L’aide est là, et elle vient d’en haut lorsque la carte des Guides apparaît. Il ne sert à rien de vouloir corriger ici-bas ce qui doit l’être là-haut. Le temps n’est pas à l’action mais à la prière. Dans ce contexte, elle n’est pas une question religieuse, mais simplement l’acte qui nous permet de nous ouvrir à l’aide que nous nous autorisons enfin à demander. Nos guides sont toujours présents et attendent simplement notre feu vert pour intervenir.",
+      "ombre": "Tu doutes et tu te remets en question beaucoup trop souvent. Tu te sens abandonnée par la Vie. Tu essaies de forcer des solutions mais ça ne marche pas car l’action n’est pas alignée. Arrête de te comporter comme si tu étais seule. Reviens à toi et demande de l’aide à tes guides invisibles, quel que soit le nom ou la forme que tu leur donnes.",
+      "lumiere": "Tu sais et tu sens que tu es protégée de manière générale. Tu peux donc avoir confiance et lâcher prise. Tes guides t’envoient déjà régulièrement des messages. A toi de les écouter et d’en tenir compte pour avancer. Plus tu le feras, plus ta confiance en la Vie et l’Univers grandira. N’attends plus.",
+      "questions": [
+        "Qu’est-ce qui t’empêche de faire confiance à l’univers ?",
+        "Oses-tu demander de l’aide et surtout t’autorises-tu à la recevoir quand tu en as besoin ?",
+        "Quelle est l’information, le message que tu n’as pas entendu ?"
+      ],
+      "zero_bullshit": "Ta Dream Team perso est là à attendre que tu t’adresses à eux, que tu leur demandes de l’aide et que tu les écoutes. Et toi, tu passes à côté en fermant tes yeux, ta bouche et tes oreilles. Demande de l’aide. Reçois-la. Et kiffe!"
+    },
+    {
+      "numero": 16,
+      "nom": "Instinct",
+      "slug": "instinct",
+      "image": "/images/cards/instinct.jpg",
+      "mots_cles": "Inné - Sauvage - Réflexe",
+      "essence": "La nature est un temple primaire et sacré. La carte de l’Instinct apparaît quand il est essentiel de laisser parler son animalité. Ça ne se comprend pas, ça se sent. Ce n’est pas mental, c’est physique. C’est dans les tripes que ça se passe. L’énergie de la Panthère côtoie celle du Bouddha. La sérénité se pare de féminité à l’état brut, sauvage et instinctive. La féline parcourt la jungle, en silence et avec souplesse jusqu’à ce qu’elle rencontre sa proie. Alors elle lui fond dessus, vive comme l’éclair. Elle ne réfléchit pas. Elle agit par réflexe, emportée par son instinct.",
+      "ombre": "Tu passes beaucoup trop de temps dans ta tête à réfléchir ou à ressasser des pensées. Ta sphère mentale prend totalement le dessus sur ton corps physique. N’oublie pas qu’il a une sagesse qui lui est propre. Tu ferais bien de lui redonner sa place. Laisse-lui le contrôle car lui seul détient la réponse que tu cherches aujourd’hui. Sois à l’écoute de tes réactions physiques, des réponses instinctives. Reviens dans ton corps. Cela doit être ta priorité, avec une activité physique qui ne te laisse pas le temps de réfléchir.",
+      "lumiere": "Tu sais déjà, ton corps sait déjà. Ce n’est pas la peine d’essayer de comprendre, de peser le pour et le contre, de réfléchir, de penser. L’inné suffit. Laisse-toi agir et réagir. Tes muscles se souviennent. Ton instinct est le bon. Ecoute ce qu’il a à te dire. Met en place une manière de communiquer avec lui à chaque fois que tu vas en avoir besoin afin que cela devienne une habitude.",
+      "questions": [
+        "Si c’est ton corps qui doit te donner une réponse, quelle est cette réponse ?",
+        "Quelle pratique peux-tu mettre en place pour développer tes réflexes ?",
+        "Sur quelle musique vas-tu danser là maintenant tout de suite ?"
+      ],
+      "zero_bullshit": "Tu réfléchis trop. Arrête ! Ton corps connaît la réponse. Écoute-le. Une séance de yoga suffira peut-être. Sinon, mets-toi à la boxe. Lorsque tu es dans une situation d’alerte corporelle, tu es totalement connectée à ton instinct et à ton inné. C’est exactement cela que tu dois chercher maintenant pour laisser parler la sagesse du corps."
+    },
+    {
+      "numero": 17,
+      "nom": "Rêver pour vivre",
+      "slug": "rever-pour-vivre",
+      "image": "/images/cards/rever-pour-vivre.jpg",
+      "mots_cles": "Voyage astral - imagination - grande vision",
+      "essence": "Tout commence par un rêve. Tout ce qui existe dans le monde matériel est d’abord né dans le monde imaginaire. Cette carte vient questionner la capacité à se connecter à ses rêves. Sa signification est à double sens. D’une part, elle s’intéresse à nos rêves diurnes et notre engagement à nous donner les moyens de les réaliser. Elle nous interroge sur notre grande vision qui est la manière de contribuer au monde avec nos entreprises. D’autre part, elle nous parle de nos rêves nocturnes qui sont porteurs de messages et de guidance pour notre quotidien. C’est une invitation à les écouter plus régulièrement et à explorer plus profondément le monde astral.",
+      "ombre": "Tu avances dans ta vie en étant déconnectée de tes rêves. T’empêcher de rêver, c’est t’empêcher de vivre pleinement ! En faisant cela, tu ne t’autorises que ce qui est possible et tu te diminues. Tu joues petit alors que tu es appelée à jouer grand pour prendre ta place et contribuer. Prends le temps de te connecter à ce qui te fait rêver pour retrouver ton élan créateur ! Cette carte parle aussi de ton monde astral. Peut-être ne te souviens-tu pas de tes rêves ou au contraire, fais-tu un rêve ou un cauchemar récurrent. C’est qu’un message important de ton inconscient s’y cache et demande à être entendu. Fais ce qu’il faut pour le mettre à jour, que ce soit en posant l’intention de te souvenir et de comprendre tes rêves ou en utilisant l’hypnose pour aller chercher directement dans ton inconscient.",
+      "lumiere": "Ta vision se révèle à travers tes rêves pour être créée dans ton présent et ton futur. Une célèbre citation de Walt Disney dit :  “Si tu peux le rêver, tu peux le faire”. Tes rêves et tes envies t’appartiennent et tu n’as pas à en avoir honte ou peur. S’ils sont présents en toi, c'est que tu as les capacités intérieures de tes ambitions. Donne-toi les moyens de réaliser ce qui te fait envie. Si c’est ce qui te fait vibrer, c’est que c’est la bonne chose à faire. Assume tes rêves ! Même, et surtout, s’ils te paraissent trop grands ou impossibles. Utilise ton corps astral pour t’assister dans tes démarches. Intéresse-toi au monde des rêves lucides car tu y trouveras des alliés de choix pour t’aider à manifester ta grande vision et créer ta réalité.",
+      "questions": [
+        "Qu’est-ce qui te fait envie ?",
+        "Quel est ton plus grand rêve ?",
+        "Que peux-tu imaginer d’encore plus grand que ton plus grand rêve ?"
+      ],
+      "zero_bullshit": "Sans rêve, tu ne feras rien ! Parce que toutes les créations humaines sont d’abord rêvées et imaginées. Si tu ne veux pas arriver à la fin de ta vie avec les 5 regrets les plus courants de l'humanité, c'est le moment de te (re)connecter à tes rêves et de les assumer pleinement ! Tes rêves et ta grande vision t’ont choisis parce que tu es la bonne personne pour les concrétiser. Pour qui te prends-tu pour refuser ce que ton âme te demande ?"
+    },
+    {
+      "numero": 18,
+      "nom": "La richesse des cycles",
+      "slug": "la-richesse-des-cycles",
+      "image": "/images/cards/la-richesse-des-cycles.jpg",
+      "mots_cles": "Abondance - Complétude - Gratitude",
+      "essence": "La vie est faite de cycles. Et chaque cycle fait partie d’un autre plus grand que lui. La fin fait donc toujours place à un début. L’aboutissement d’un projet peut éveiller des sentiments chaotiques. La clé est de se donner le temps d’apprécier ce moment sans devoir à tout prix débuter un autre projet par peur du vide. Cette carte nous invite donc à la célébration et à la gratitude! Car le temps de la récolte fournira les prochaines graines à planter.",
+      "ombre": "Tu n’apprécies pas la fin du cycle alors que c’est précisément pour ce moment que tu as commencé ce projet, pour son apogée. C’est une période angoissante pour toi alors qu’elle a tout pour être réjouissante. En fait, tu luttes contre l’impermanence de la vie. Tu as peur parce que tu ne perçois pas encore avec précision le début du prochain cycle. Peut-être angoisses-tu à l’idée qu’il n'existe pas ou qu’il déplaise. En faisant cela, tu t’empêches de célébrer l’abondance de ce qui se termine. Apprécie ce qui est là, ici et maintenant.",
+      "lumiere": "La fin du cycle représente le temps des moissons, le moment où tu récoltes ce que tu as semé. Célèbre l’abondance qui est déjà là. Ne tombe pas dans le piège de tous les grands visionnaires qui créent déjà le monde de demain, en te projetant dans le futur avant d’avoir aimé le présent. Profite de ce moment pour créer tes propres rituels de gratitude et inviter le sacré dans ton quotidien. Reste attentive aux signes et aux graines que cette fin de cycle t’apporte… Ce seront les prémices du prochain, mais ne t’y attache pas en ce moment de fête.",
+      "questions": [
+        "Quel est le cycle qui est en train de s’achever pour toi ?",
+        "Que dois-tu cesser de faire et à quoi dois-tu cesser de t’accrocher ?",
+        "Que dois-tu célébrer aujourd’hui ? De quoi peux-tu être fière ?",
+        "Quelle qualité as-tu besoin de développer pour vivre le changement en toute sérénité?"
+      ],
+      "zero_bullshit": "Oui, c’est la fin ! Et alors ? Pas la peine de sortir les mouchoirs et de paniquer. Ce n’est pas parce que c’est fini que ça doit être triste et déprimant. Bien au contraire, profite ! Regarde toute l’abondance que tu as ! Prends le temps de célébrer et d’apprécier avant de te jeter à corps perdu dans un nouveau projet. La seule chose dont tu peux être sûre dans ce monde est le changement, pourquoi essaies-tu d’y résister, de l’ignorer ?"
+    },
+    {
+      "numero": 19,
+      "nom": "La fuite",
+      "slug": "la-fuite",
+      "image": "/images/cards/la-fuite.jpg",
+      "mots_cles": "Déni - Hésitation - Excuses",
+      "essence": "Voilà l’entrée de la grotte. Nous sommes sur le seuil et nous hésitons à y entrer, car l’intérieur est sombre et menaçant. L’extérieur et la lumière sont bien plus attrayants. Quand cette carte apparaît, elle nous invite à arrêter de détourner les yeux pour regarder ce que nous procrastinons depuis trop longtemps. Toutes les excuses que nous pouvons trouver ne résoudront pas le problème réel : l’inaction.",
+      "ombre": "Fuir n’est qu’une solution illusoire et ça ne va pas t’aider à régler ton problème. Fermer les yeux ne le fera pas disparaître. Tu sais que tu l’as laissé traîner depuis trop longtemps et il va falloir y faire face ! Quel que soit le blocage, tu peux le dépasser en te forçant à passer à l’action. Un projet sur lequel tu ne fais rien est un projet qui meurt. Le meilleur remède à la procrastination, c’est d’y aller sans réfléchir. Vas-y, bouge tes fesses et fais-toi ce cadeau !",
+      "lumiere": "Cette carte, en position favorable, t’invite à regarder à l’opposé de ce que tu as déjà fait aujourd’hui. Ne confonds pas persévérance et obstination. Parfois, la fuite est la meilleure option. Il faut accepter de battre en retraite et perdre une bataille pour pouvoir gagner la guerre. Pose-toi deux minutes pour avoir le discernement nécessaire et prendre une décision éclairée. Demande-toi ce qui est le plus juste pour toi.",
+      "questions": [
+        "Qu’est-ce que tu fuis ou que tu procrastines ?",
+        "Comment peux-tu apporter de la clarté dans ta situation ?",
+        "Quel est ton bénéfice à fuir ?"
+      ],
+      "zero_bullshit": "Fuis-le, il te suit. Tu vois bien que la fuite à elle seule ne règle pas le problème. Arrête de procrastiner. Arrête de te trouver des excuses. Ne repousse pas le moment de la décision. Passe à l’action maintenant !"
+    },
+    {
+      "numero": 20,
+      "nom": "Avancer avec élégance",
+      "slug": "avancer-avec-elegance",
+      "image": "/images/cards/avancer-avec-elegance.jpg",
+      "mots_cles": "Agir avec subtilité - Obstacle - Détermination",
+      "essence": "Avancer avec élégance, tel un chat qui fait abstraction de toutes les distractions qui l’entourent. Rien n’est important. Il poursuit son chemin, allant là où il a décidé d’aller. Rien ni personne ne peut le faire changer d’avis. Les obstacles ne l’empêchent pas d’avancer. Il les contourne et continue sa marche silencieuse. On peut le croire nonchalant alors que sa présence intérieure le garde alerte et lui permet de faire les actions les plus efficaces possibles, tout en souplesse.",
+      "ombre": "Tu marches sur des œufs. Tu essaies de te faire discrète, de ne pas te faire remarquer, de ne pas faire de vagues. Tu veux être élégante mais en fait, tu t’effaces. Tu te dis que tu es développée personnellement, que les personnes bien ne crient pas, ne se mettent pas en colère, n’agissent pas comme cela. Tu as presque raison mais vois-tu, c’est exactement cela qui t’empêche d’avancer. Parfois, il faut délaisser l’élégance du chat et cesser de faire dans la dentelle pour laisser s’exprimer l’intensité de ce qu’il y a à vivre. Et plutôt que de faire des détours pour éviter les obstacles, il faut foncer dedans pour dégager le chemin.",
+      "lumiere": "Non, ce n’est pas un signe qui vient te dire d’arrêter. C’est un signe qui vient tester ta détermination. Le chat ne s’arrête pas même quand tu le lui demandes. Tu peux ralentir mais continue d’avancer sereinement malgré les défis qui se profilent à l’horizon. Tu as les ressources nécessaires pour contourner les obstacles qui se dresseront devant toi et poursuivre ta route avec élégance.",
+      "questions": [
+        "Que voulais-tu arrêter et que tu dois absolument continuer ?",
+        "Quelle action subtile et élégante peux-tu faire pour contourner les obstacles apparents ?",
+        "Dans quelle situation te fais-tu croire que tu es subtile alors qu’en réalité tu es effacée ?"
+      ],
+      "zero_bullshit": "Surtout, pas de pause ! Ta détermination est la clé ici pour aller au bout. La question est de savoir avec quelle énergie vas-tu avancer. Subtile et gracieuse pour contourner les obstacles ? Ou avec force et vivacité ? Dans le doute et dans l’impasse, fais le contraire de ce que tu as fait jusqu’à présent ! Et dans tous les cas, avance !"
+    },
+    {
+      "numero": 21,
+      "nom": "Plonger en soi",
+      "slug": "plonger-en-soi",
+      "image": "/images/cards/plonger-en-soi.jpg",
+      "mots_cles": "Introspection - authenticité - Accès au fond des choses",
+      "essence": "Un travail d’introspection est attendu lorsque cette carte apparaît. Pour regarder en soi et discerner ce qui vient de l’ego, du cœur, de l’extérieur, du passé, etc. Le plus grand plongeon est à faire en soi. Si ce travail demeure confortable, c’est qu’il faut aller plus profondément car il reste des zones à explorer. Le but est d’aller jusqu’au fond du puits, là où  repose la vase, pour la faire remonter à la surface afin de l’évacuer ou de l’utiliser comme engrais. La distinction entre les deux sera faite grâce au discernement. Les résultats obtenus dépendent de l’attitude adoptée pour ce travail intérieur.",
+      "ombre": "Tu sais que tu dois regarder à l’intérieur de toi mais tu essaies d’y échapper, de repousser le moment de la confrontation à toi-même. Pourquoi fais-tu cela ? Je sais que ce ne sera pas agréable. Mais regarde les conséquences aujourd’hui sur ta vie. Et si tu ne les vois pas, regarde encore ! Tes actions sont vaines et tu t’éloignes des autres parce que tu ne prends pas le temps d’être avec toi-même. C’est le moment d’aller voir ces parties de toi qui te dérangent, qui t’effraient, que tu ne veux pas voir remonter à la surface de peur qu’elles détruisent tout. Plonge.",
+      "lumiere": "Tu te connais bien. Tu connais déjà une partie de tes ombres, de ta lumière, tes points de vigilance et tes forces. Tu as déjà plongé en toi. C’est le moment de te servir de cette compétence et de recommencer. Va chercher ces parties sombres que tu n’as pas encore appris à aimer. Ce ne sera pas aussi inconfortable que les premières fois. Tu n’as pas à avoir peur de ta souffrance car à chaque fois que tu fais ce chemin, cela devient plus facile. Fais-en une pratique régulière plutôt que d’attendre d’être le dos au mur.",
+      "questions": [
+        "Quelle partie de toi ne veux-tu pas aller regarder ?",
+        "Que peux-tu mettre en place pour aller à ta rencontre quotidiennement ?",
+        "Et si tu savais déjà ce que tu ne sais pas, ce serait quoi ?"
+      ],
+      "zero_bullshit": "La réponse est en toi et non pas en dehors, même si cela te semblerait plus simple. Ce qui t’empêche de la trouver, c’est ton incapacité à faire face et à aimer tes ombres. Tu navigues en eaux troubles parce que tu fais semblant de ne pas savoir qu’à chaque brasse, tu remues ta vase. Arrête de cacher ta merde sous le tapis. Fais le ménage. Plonge en toi et trouve tes propres réponses. Et si en lisant cela, tu te demandes encore quoi ou comment faire, assieds-toi et médite!"
+    },
+    {
+      "numero": 22,
+      "nom": "La naissance",
+      "slug": "la-naissance",
+      "image": "/images/cards/la-naissance.jpg",
+      "mots_cles": "Fragilité - Protéger - patience",
+      "essence": "Avant d’être le chêne grand et majestueux que nous pouvons admirer, il n’est qu’un gland. Et pourtant, dans ce gland, il y a déjà la promesse du chêne qui va naître et grandir. Ce n’est pas parce que cela paraît insignifiant que ça ne porte pas la promesse de la grandeur. Toute idée porte en elle un projet d’envergure. Mais pour que ce projet puisse se concrétiser, croître et rayonner, il faut le protéger, le nourrir et s’en occuper avec soin. Cette carte représente la naissance d’un projet et nous invite à lui donner le soin nécessaire à son épanouissement.",
+      "ombre": "Tu as une idée et tu n’en fais rien. Si ton idée te semble fragile, sache qu’en effet elle l’est !  Mais fragile ne veut pas dire inutile ou sans valeur ! Si tes actions ne semblent pas porter leurs fruits pour le moment, c’est normal. Est-ce que tu crois que le jardinier qui retourne la terre est frustré de ne pas pouvoir manger ses fraises ? Non ! Parce qu’il sait qu’avant de récolter, il doit d’abord préparer la terre, planter les graines, leur laisser le temps de germer, puis il doit arroser ses pousses, les protéger de la grêle et des limaces... Arrête de ne rien faire et fais ce qu’il y a à faire. Il est temps que tu investisses l’énergie et le soin dans ton projet, tout en le protégeant jusqu’à ce qu’il soit fort.",
+      "lumiere": "Ton projet est le bon. Je sais que pour le moment, tu as l’impression qu’il ne se passe pas grand chose, que ça ne va pas assez vite. Sais-tu qu’un rhizome de bambou met cinq ans avant de sortir de terre ? Et pendant cinq ans, il requiert d’être arrosé et nourri chaque jour. Une fois qu’il a percé, il grandit jusqu’à une trentaine de mètres en cinq semaines. La question est : est-ce qu’il a poussé de trente mètres en cinq semaines ou en cinq ans ? La réponse est évidente, il a grandi de trente mètres en cinq ans parce que s’il n’avait pas été arrosé et nourri, alors ce bambou serait mort dans le sol avant même d’avoir vu le soleil. Continue d’arroser et de nourrir ton projet, ton rêve. Peu importe ce qu’en disent les autres. Ignore ceux qui te demandent des preuves. Ne te décourage pas et continue.",
+      "questions": [
+        "Que peux-tu mettre en place pour garder la confiance même lorsque tu es dans l’impatience ?",
+        "Quel rêve encore plus grand peux-tu avoir pour ton idée afin de garder la motivation de la nourrir chaque jour ?",
+        "Qui draine ton énergie aujourd’hui et te fait douter ? (C’est le moment de t’en détacher !)"
+      ],
+      "zero_bullshit": "Ne fuis pas l’évidence qui te pousse sur cette nouvelle voie! L’immobilisme te coûtera bien plus que la prise de risque. Fais-toi naître avec ton projet! Aie confiance, même si les résultats ne sont pas encore là. Tu n’as pas le temps pour les personnes qui n’y croient pas. Dégage tout ce qui met ton projet en péril."
+    },
+    {
+      "numero": 23,
+      "nom": "La crise",
+      "slug": "la-crise",
+      "image": "/images/cards/la-crise.jpg",
+      "mots_cles": "Confusion - Panique - Ressources",
+      "essence": "Cette carte nous parle des situations qui nous dépassent, et dans lesquelles nous nous sentons perdues et même accablées. Dans ces moments-là, la panique nous envahit et obstrue notre vision ainsi que notre capacité à trouver des solutions. C’est comme se sentir prisonnière et ne voir aucune échappatoire. Un sentiment d’urgence nous pousse à nous agiter dans tous les sens, mais ça n’améliore en rien la situation. Au contraire, cela ne fait que l’empirer. Comme la mouche qui se prend dans une toile d’araignée: plus elle bouge, plus elle indique à son prédateur où la trouver pour la dévorer.",
+      "ombre": "Tu es en confusion et tu t’agites dans tous les sens. Cela ne t’aide absolument pas. STOP ! Arrête-toi ! Plus tu te débats dans tes chaînes, plus tu les emmêles et les resserres autour de toi. La clé, c’est de t’arrêter, de faire une pause. Tu as déjà toutes les ressources en toi pour te sortir de là. Mais tu ne pourras pas les voir tant que tu t’agites. Respire et pose-toi.",
+      "lumiere": "Les situations de crise que tu traverses en ce moment te permettent de mettre à jour des ressources insoupçonnées, que tu n’aurais jamais pu mobiliser si tu n’étais pas dos au mur. Au lieu de te débattre, prends le temps de te demander ce que cette situation a à t’apporter. Détends-toi. L’oppression que tu ressens sera moins inconfortable. Il y a forcément un cadeau caché. A toi de le découvrir pour l’utiliser car c’est la réponse à ta question.",
+      "questions": [
+        "Quelle est la ressource cachée en toi que la situation actuelle te permet de déployer ?",
+        "De quoi as-tu peur si tu t’arrêtes ?",
+        "Est-ce que cette situation s’inscrit dans un schéma que tu as vu se répéter au fil des ans ? Qu’est-ce que tu peux en comprendre ?",
+        "Si cette situation devait durer toujours, quelle qualité développerais-tu pour y faire face avec sérénité intérieure ?"
+      ],
+      "zero_bullshit": "Arrête-toi! Stop! C’est la meilleure chose à faire maintenant. Fais l’état des lieux. Quelles sont les ressources à ta disposition ? Quel est le cadeau dans cette situation ? Change ton regard afin de découvrir les forces intérieures que tu es capable de déployer au lieu de te lamenter sur ce qui ne va pas. La victime en toi ? Oust !"
+    },
+    {
+      "numero": 24,
+      "nom": "La présence du funambule",
+      "slug": "la-presence-du-funambule",
+      "image": "/images/cards/la-presence-du-funambule.jpg",
+      "mots_cles": "Concentration - Hyper Présence - Équilibre",
+      "essence": "Le funambule entre deux montagnes a besoin d’être absolument présent à lui-même pour ne pas tomber dans le vide. Son être entier est engagé vers son objectif. Sa présence, sa conscience, ses émotions, son esprit, toutes les cellules de son corps sont mobilisées dans son action. Le funambule ne regarde pas ses pieds mais au-delà de l’horizon, sans se soucier du chemin qu’il lui reste à parcourir. Chaque moment succède au précédent. Cette carte interroge sur la capacité à être 100% présente et engagée à chaque instant.",
+      "ombre": "Tu peux faire mine de t’impliquer corps et âme dans ton projet, mais tu ne duperas personne, pas même toi. Tu crois être engagée mais tu es très loin de faire ce qu’il faut. Si tu continues à douter et à t’affoler à chaque coup de vent, c’est que tu n’es pas pleinement investie pour ta réussite. Lorsque tu passes plus de temps à regarder autour de toi que devant toi, à l’image d’un funambule vacillant, tu as plus de risques de perdre l’équilibre et de tomber que d’arriver de l’autre côté avec succès.",
+      "lumiere": "Ta pleine présence est requise. À 200%. Ta réussite en dépend. Mobilise cette force intérieure pour mener à bien n’importe quel projet qui te tient à cœur. Plus rien ne compte que l’action que tu es en train d’entreprendre. En équilibre et en mouvement, ta concentration doit être maximale pour rentrer dans le flow.",
+      "questions": [
+        "Qu’est-ce que tu peux mettre en place pour être en pleine présence ?",
+        "Qu’est-ce qui t’aiderait à t’engager pleinement ?",
+        "Qu’as-tu besoin de réajuster pour garder l’équilibre ?"
+      ],
+      "zero_bullshit": "Mets toute ta présence et ta concentration dans ce que tu fais. Faire semblant d’être engagée ne te permettra pas d’obtenir ce que tu veux. Tu veux ou tu veux pas? Si tu veux, engage-toi! Complètement, à 200%"
+    },
+    {
+      "numero": 25,
+      "nom": "Interconnexion",
+      "slug": "interconnexion",
+      "image": "/images/cards/interconnexion.jpg",
+      "mots_cles": "Lien - humanité - communauté",
+      "essence": "Cette carte nous parle de notre connexion aux autres. La solitude ressentie n’est qu’une illusion de notre ego puisque nous sommes toujours en lien avec les autres, avec la Nature, avec le Tout, ne serait-ce que parce qu’on respire le même air. Il est facile de s’imaginer être seules à vivre ce que nous vivons. Dans les faits, ça peut être le cas, car les situations et les circonstances sont propres à chacune. Mais dans la sphère émotionnelle, nous passons toutes, à un moment ou à un autre, à travers la joie, la peur, la tristesse, la colère, le dégoût. Se sentir reliée aux autres permet de se sentir plus forte pour affronter les obstacles. De se sentir soutenue même quand il n’y a personne à côté !",
+      "ombre": "Ta solitude vient de ton ego. Tu te sens seule mais ce ne sont pas les autres qui te rejettent, c’est toi qui te rejettes. Tu t’isoles toi-même. Des gens sont autour de toi mais tu préfères croire qu’il n’y a personne pour te comprendre ou te soutenir. Tu les tiens à distance par ton attitude et ton refus de partager ce qui se passe réellement pour toi. Ce n’est pas à eux d’essayer de comprendre ce que tu caches ou ne dis pas. C’est à toi d’ouvrir ton cœur pour permettre aux autres de t’approcher et de se connecter à toi. La solution à la dépendance n’est pas l’indépendance ! C’est l’autonomie tout en restant en relation avec les autres.",
+      "lumiere": "Appuie-toi sur ta communauté, sur les gens qui t’entourent, sur ton réseau professionnel. Tu peux puiser ta force dans tes connexions. Et si tu es physiquement seule, relie-toi virtuellement ou énergétiquement à ceux qui ont la même vision que toi. Aujourd’hui, les réseaux sociaux permettent cela. Tu peux te connecter à des personnes de tout horizon, qui se trouvent à des milliers de kilomètres ou même tout près de chez toi. Le message de la carte est clair : ta réponse est dans la connexion aux autres! Entoure-toi.",
+      "questions": [
+        "Quel est le premier pas que tu peux faire pour partager ce que tu vis et ce que tu ressens afin de te connecter avec un autre être humain ?",
+        "Comment peux-tu décrire la communauté réelle ou virtuelle dont tu fais partie ?",
+        "Comment peux-tu amener de la connexion dans ton projet ?"
+      ],
+      "zero_bullshit": "Si tu te sens seule, c’est seulement parce que tu te racontes une histoire de merde. Ton ego te fait te sentir soit supérieure, soit inférieure. Tu te crois tellement différente que tu penses que personne ne peut te comprendre. C’est un énorme bullshit. Redescend de ta tour d’ivoire. Tu es déjà en lien avec le reste de l’humanité. Décide de te connecter à l’autre et à l’Univers. Regarde comment tu peux créer encore plus de connexions autour de toi !"
+    },
+    {
+      "numero": 26,
+      "nom": "Créativité fluide",
+      "slug": "creativite-fluide",
+      "image": "/images/cards/creativite-fluide.jpg",
+      "mots_cles": "Souplesse - Structure - Sortir du cadre",
+      "essence": "La vie, c’est le mouvement. Pourtant notre envie de bouger est parfois entravée parce que nous nous sentons enfermées ou coincées dans un cadre. Pour s’en libérer, il faut casser la rigidité et ramener la fluidité. Souvent le cadre est vu comme une prison mais celle-ci n’existe que dans l’esprit de celle qui l’a créée. En réalité, le cadre propose simplement une structure qui permet de canaliser notre énergie créatrice et, comme pour tout ce qui existe, il est destiné à évoluer. Il ne tient qu’à nous de le moduler et de le changer selon nos besoins, nos envies et notre propre évolution.",
+      "ombre": "Tu te sens bridée dans ta créativité et quelque chose t’empêche de créer malgré l’envie. Pour te débloquer, tu dois d’abord prendre conscience de tes propres carcans. Vois les limites que tu t’es imposées à toi-même. Tu aimes casser les cadres ? Super ! Alors pourquoi t’enfermes-tu dans les tiens ?",
+      "lumiere": "Tu sais que tu as une facilité à créer, déconstruire et recréer des cadres. C’est cette facilité que tu dois utiliser maintenant. Il se peut que les cadres qui t’animent aujourd’hui aient besoin d’être ouverts pour être rassemblés. Il se peut aussi que tu aies simplement besoin de créer un cadre pour une nouvelle activité dans laquelle tu te lances. Quoi qu'il en soit, c’est important pour toi de faire évoluer les structures actuelles pour libérer ta créativité.",
+      "questions": [
+        "Que t'empêches-tu de faire, sous le prétexte que par le passé, tu as décidé que \"ça doit être comme ça\" que tu dois faire ?",
+        "Qu’est-ce que la rebelle en toi t’empêche de vivre ?",
+        "Que voudrais-tu créer si tu pouvais sortir du cadre ?"
+      ],
+      "zero_bullshit": "Arrête de te faire croire que tu es une rebelle qui explose les cadres alors que tu ne fais qu’en créer de nouveaux. Au fond, tu sais bien que tu as besoin du cadre. Mais arrête d’être psychorigide avec celui que tu t’imposes à toi-même. La vraie rebelle ne fait que ce qui est juste pour elle. Même si ça signifie rentrer dans le rang quand ça l’arrange. En gardant toujours le même cadre, aussi atypique soit-il, tu t’enfermes et tu t’empêches clairement d’évoluer ! Lâche. Bouge. Ramène de la fluidité et sois créative !"
+    },
+    {
+      "numero": 27,
+      "nom": "Amour universel",
+      "slug": "amour-universel",
+      "image": "/images/cards/amour-universel.jpg",
+      "mots_cles": "Lumière - Rayonner - Vibrer",
+      "essence": "Ici, nous parlons de l’Amour avec un grand A, en tant qu’énergie de création. Il est partout, tout le temps. Il est la plus pure expression de l’abondance. Plus nous le partageons, plus il y en a. Il ne dépend d’aucune condition. Ce n’est pas une émotion ni un sentiment. C’est un état d’être. Plus nous faisons ce qui nous fait vibrer, plus nous sommes capables de nous unifier et d'être rassemblées à l’intérieur. C’est ainsi que nous atteignons l’alignement nécessaire pour laisser passer la lumière et rayonner. Et ce grand Amour englobe toutes les autres formes d’amour. Ainsi, cette carte nous interroge sur notre relation à l’amour dans toutes ses expressions : l’amour de soi, des autres, de son habitation, du monde, de la vie, du vin, de son métier, du sport, etc.",
+      "ombre": "Tu ne peux réellement aimer qu’à la mesure de ce que tu t’aimes toi-même. Quand tu es à vide, tu es avide. Tu renvoies une énergie de manque qui te pousse à vouloir te combler en utilisant l’autre ou en abusant de quelque chose. Il est temps pour toi de répondre à tes propres besoins et de suivre tes envies pour cesser de vouloir remplir tes propres vides. Fais ce qui te nourrit pour partager à partir de tes trop pleins. Tu as un impact sur le monde autour de toi. Prends la responsabilité de la qualité de l’énergie que tu rayonnes.",
+      "lumiere": "Cette carte t’invite à partager à plus de monde, à créer à partir de cet espace d’amour auquel tu es connectée. Quand tu te sens remplie de vie, d’abondance et d’amour, tu n’as qu’une envie, c’est de le partager avec quelqu’un. C’est comme lorsque tu as planté un potager et que c’est le moment de la récolte. Quand la saison a été bonne et que tu as tellement de légumes que tu ne sais plus quoi en faire, ta première envie, c’est d’offrir le surplus aux voisins. Offre au monde sans craindre de manquer ou d’arriver à court. On ne peut pas tarir la fontaine divine. Aime.",
+      "questions": [
+        "Que peux-tu arrêter ou commencer dans ton quotidien pour te connecter à ce qui te fait vraiment vibrer ?",
+        "Comment te sens-tu dans ton corps quand tu es dans l’abondance ?",
+        "Que peux-tu créer ou partager à partir de ta lumière ?"
+      ],
+      "zero_bullshit": "Remplis-toi d’amour et partage ton surplus. Tu ne peux pas rayonner si tu es à vide. L’amour doit être au cœur de toutes tes actions. Tu ne peux pas en faire l’économie si tu veux prendre ta place de leader avec tes projets et ton entreprise."
+    },
+    {
+      "numero": 28,
+      "nom": "L'or de ton passé",
+      "slug": "l-or-de-ton-passe",
+      "image": "/images/cards/l-or-de-ton-passe.jpg",
+      "mots_cles": "Histoire - Mettre en lumière - Guérir",
+      "essence": "Toutes les histoires du passé renferment un trésor qui demande parfois à être dévoilé pour pouvoir briller. Il ne tient qu’à nous de voir nos histoires sous un angle différent pour qu’elles deviennent les fondations solides sur lesquelles construire notre avenir. Une grande rétrospective des moments clés de nos vies permet de nous connecter à notre puissance. Même si le chemin emprunté n’a pas été celui escompté idéalement, il y a une certaine cohérence, une forme de beauté qui en ressort.Toutes ces couches invisibles méritent d’être mises en lumière et sublimées par le regard que nous portons sur elles.",
+      "ombre": "Les souvenirs qui t’habitent te tirent vers le bas. Il est temps pour toi de guérir tes histoires du passé pour qu’elles ne soient plus des boulets que tu traînes, mais des socles sur lesquels tu peux t’élever. Lâche les émotions néfastes - colère, tristesse, honte, culpabilité, dégoût - qui y sont attachées. Regarde-les avec amour et bienveillance. Tu te donneras la possibilité d’en faire de solides fondations pour construire ton futur. Choisis l’histoire qui est en lien avec ta question et réécris-la.",
+      "lumiere": "Regarde le chemin parcouru. N’es-tu pas fière ? Oui, tu peux t’appuyer sur tes expériences passées et les fondations que tu as déjà construites. Tes bases sont solides et ne demandent qu’à être mises à contribution pour bâtir ton avenir. Tous tes souvenirs façonnent ton identité et tu es déjà capable de voir l’or dans chacun d’eux. Mais l’invitation aujourd’hui est de les lâcher. Ne te laisse pas définir par ton passé. Tu es bien plus que ton histoire.",
+      "questions": [
+        "A quelle histoire de ton passé associes-tu des souvenirs douloureux? Comment peux-tu la regarder autrement ?",
+        "Qui es-tu au-delà de ton histoire de vie ?",
+        "Quelle histoire veux-tu te construire pour le futur, indépendamment de ton passé ?"
+      ],
+      "zero_bullshit": "Tu te racontes une histoire en boucle. C’est elle qui te maintient là où tu en es aujourd’hui. Si tu veux pouvoir avancer, il est temps de la réécrire pour y voir l’ombre comme la lumière. C’est en trouvant cet équilibre que tu pourras t’en libérer. Que ton histoire soit bonne ou mauvaise, ce n’est pas un doudou et tu n’es plus une enfant. Range-la au placard et avance."
+    },
+    {
+      "numero": 29,
+      "nom": "Les chemins de traverse",
+      "slug": "les-chemins-de-traverse",
+      "image": "/images/cards/les-chemins-de-traverse.jpg",
+      "mots_cles": "Épreuves - Apprentissage - Itinéraire bis",
+      "essence": "Il n’est pas toujours nécessaire d'aller en ligne droite du point A au point B. Il faut parfois accepter de se perdre pour se retrouver. Les détours ouvrent la porte à l’inattendu et peuvent réserver de belles surprises. Les leçons apprises sur ces routes remarquables permettent d’élargir notre champ de vision et également de ne pas reproduire les errances passées dans le présent.",
+      "ombre": "Tu apprends par ton vécu. Tes expériences particulières sont un véritable trésor de connaissances. Ne regrette pas les détours que tu as fait par le passé. Mais il n’est pas nécessaire de continuer sur cette lancée. Aujourd’hui, tu t’égares et tu t’éparpilles dans de la procrastination utile. Un pas à droite, un pas à gauche, un pas en avant, un pas en arrière… Finalement, tu n’as ni avancé, ni reculé malgré tous les mouvements que tu as fait. A force de vouloir contourner les difficultés, tu as perdu ta route. Tu ne veux pas faire comme tout le monde mais c’est ce qui t’empêche d’avancer. Suivre ta propre voie n’est pas que tracer un nouveau chemin. Choisis ton propre itinéraire en t’autorisant à emprunter les chemins battus pour aller plus vite. Il n’y a pas de mal non plus à choisir la ligne droite. Parfois, le chemin est simple, et il n’aurait pas plus de valeur même si tu le rendais compliqué.",
+      "lumiere": "Choisis le chemin qui te fait vibrer même s’il ne paraît pas logique aujourd’hui. Tu comprendras un jour que c’était exactement le détour dont tu avais besoin. Lâche le contrôle sur les résultats pour suivre simplement l’appel de ton cœur. Si tu te sens dans l’impasse, demande-toi par quel chemin détourné tu pourrais passer plutôt que de t’obstiner à vouloir suivre la voie normale. Think out of the box.",
+      "questions": [
+        "Quel est ce chemin qui t’appelle mais que tu ne t’autorises pas à suivre ?",
+        "Qu’est-ce que tu pourrais faire différemment ?",
+        "Quel est le grand objectif que tu ne dois absolument pas perdre de vue pour garder le cap quoi qu’il arrive ?"
+      ],
+      "zero_bullshit": "Il est facile de se perdre en chemin. Ce n’est pas forcément un problème, c’est même parfois absolument nécessaire. Alors comment peux-tu faire la différence entre la procrastination utile et l’appel du cœur ? Regarde où tu en es, sans te voiler la face. Tu as changé, tu as évolué, tu es là où tu as envie d’être ? Non ? Arrête de tourner en rond. Regarde en arrière. Tire les leçons de tes errances du passé, corrige et avance. Oui ? Ton cœur a parlé alors écoute."
+    },
+    {
+      "numero": 30,
+      "nom": "La pétillance de l'enfance",
+      "slug": "la-petillance-de-l-enfance",
+      "image": "/images/cards/la-petillance-de-l-enfance.jpg",
+      "mots_cles": "Joie - S’amuser - Instant présent",
+      "essence": "L’enfant avance dans la vie avec légèreté et bonheur. Il chemine en sautillant, sans se souciant ni des flaques ni de la longueur du chemin à parcourir. Il est pleinement présent et dans sa joie. Il ne s’inquiète ni du passé ni de l’avenir. Il s’amuse simplement et vit ce qu’il y a à vivre. Cette carte nous propose de nous connecter à l’énergie de l’enfant qui s’amuse, et ce, quelles que soient les circonstances extérieures.",
+      "ombre": "Tu te plains, tu râles, ça ne va pas. Le soleil est trop chaud, la pluie est trop humide et la nuit est trop noire. Ton monde intérieur est tout gris. Tu as oublié que tu pouvais t’amuser et prendre du plaisir, et que ça n’a rien à voir avec ce qui se passe à l’extérieur de toi. Oublie tout ce qui a trait au futur ou au passé, seul compte le moment présent. Commence par sourire. Et le monde te sourira.",
+      "lumiere": "C’est en t’amusant que tu trouveras la réponse à ta question. Trouve ce qui te donne cette sensation de présence, de cellules qui pétillent dans ton corps, de liberté et de spontanéité. Lâche les attentes du futur et les fardeaux du passé pour être totalement dans le moment présent. Comme un enfant. Ne réfléchis pas. N’essaie pas d’anticiper les conséquences de tes actes. Suis la joie, simplement !",
+      "questions": [
+        "De quoi as-tu peur en t’autorisant à jouer ?",
+        "Que ferait un enfant à ta place ?",
+        "Que peux-tu faire pour suivre ta joie ?"
+      ],
+      "zero_bullshit": "Le monde est déjà assez chiant comme ça, n’en rajoute pas une couche en étant comme tous ces moldus gris et ternes qui se plaignent tout le temps. Vivre est un but en soi. Kiffer est un but en soi. Tu n’as pas besoin de savoir pourquoi, simplement de le ressentir ! Va faire de la balançoire. Danse sous la pluie."
+    },
+    {
+      "numero": 31,
+      "nom": "Écriture",
+      "slug": "ecriture",
+      "image": "/images/cards/ecriture.jpg",
+      "mots_cles": "Message - Contrat - Transmission",
+      "essence": "Les mots demandent à être écrits. Que ce soit un contrat, un livre, une lettre ou un journal intime, la réponse se trouve dans l’écriture. Cette action est indispensable pour créer de l’espace en soi. Les informations s’emmêlent et encombrent l’esprit tant qu’elles ne sont pas posées dans la matière. Cette carte parle aussi de transmission. Les paroles s’envolent et les écrits restent.",
+      "ombre": "Tu gardes tout à l’intérieur de toi : les émotions, les idées, les informations que tu voudrais crier au monde. La carte de l’écriture te confirme en effet que crier n’est pas la solution, mais écrire oui. Alors écris ! C’est indispensable. Ne perd pas de temps à chercher quoi ou comment. Fais-le, tout simplement ! Prends une feuille, un crayon et couche sur le papier tout ce qui te passe par la tête. Écrire est thérapeutique et c’est la thérapie dont tu as besoin aujourd’hui.",
+      "lumiere": "Écris ! Que cela soit pour laisser un héritage, pour partager, pour clarifier et structurer tes idées ou simplement pour suivre une envie, écris ! Tous tes enseignements, toutes tes expériences, toutes tes histoires sont des leçons que tu pourrais transmettre, si tu prenais le temps de les écrire.",
+      "questions": [
+        "Qu’est-ce qui a besoin de sortir de toi et que tu pourrais poser sur le papier ?",
+        "Quels enseignements pourrais-tu transmettre en les écrivant ?",
+        "Quelle trace veux-tu laisser sur Terre ?"
+      ],
+      "zero_bullshit": "L’Univers te veut en action et de manière très précise : par l’écriture. Alors à tes papiers et à ton stylo. Écris ! N’importe quoi… Tout. Quels que soient les mots, ce sont les bons pour toi."
+    },
+    {
+      "numero": 32,
+      "nom": "Pardonne tes blessures",
+      "slug": "pardonne-tes-blessures",
+      "image": "/images/cards/pardonne-tes-blessures.jpg",
+      "mots_cles": "Guérison - Evolution - Résilience",
+      "essence": "Il y a cinq grandes blessures de l’âme : le rejet, l’abandon, l’humiliation, l’injustice et la trahison. Lorsque nos blessures sont activées, nos émotions partent dans tous les sens et nous rendent irrationnelles. Cette carte nous parle de ces débordements émotionnels et nous invite à la guérison. Pour reprendre le pouvoir sur notre vie, nous devons cesser d’ignorer ce qui nous paraît cassé et laid en nous, pour regarder ces aspects bien en face. Ensuite, viendra un travail d’acceptation et de pardon. Comme le Kintsugi répare les céramiques brisées en sublimant les fêlures avec de l’or, au lieu d’essayer de les cacher, nous devons faire de même avec nos cicatrices.",
+      "ombre": "Ouch! Ce qui te bloque aujourd’hui est lié à une blessure profonde et ça fait mal. Tu es embarquée sur un grand huit émotionnel, c’est désagréable et tu fais n’importe quoi. Lorsque tes blessures sont trop régulièrement activées, tu dépéris et tu fais pourrir tes relations. Reprends la responsabilité de tes émotions ! Commence par reconnaître quelle blessure s’active, pourquoi elle s’active et comment elle a été créée. Creuse dans ton passé pour le savoir. Et fais le travail de pardon.",
+      "lumiere": "Tu es une belle personne, n’en doutes pas. Tes blessures t’ont permis de développer une force incroyable sur laquelle tu peux t’appuyer aujourd’hui pour surmonter les obstacles qui se présentent à toi. Quel que soit ce que tu es en train de traverser aujourd’hui, tu t’en es déjà sortie par le passé, tu t’en sortiras là aussi. Ta résilience t’honore. Reconnecte-toi aux qualités que tu as développées pour surmonter les épreuves passées. Elles sont la solution dont tu as besoin aujourd’hui.",
+      "questions": [
+        "Quels sont les cadeaux qui se cachent derrière les plus grandes douleurs de ton passé ?",
+        "Qu’est-ce qui te fait sortir de tes gonds ?",
+        "Quelle est cette part de toi dont tu as honte alors que tu as besoin de l’accepter et de lui accorder ton pardon ?"
+      ],
+      "zero_bullshit": "Pardonne-toi. Aux grands maux, les grands remèdes ! Répète devant le miroir : “(ton prénom) je te pardonne pour … “ tous les jours, pendant 21 jours. Si tu ne le fais pas, ne te plains pas que tu souffres, parce que c’est toi qui choisis de continuer à souffrir."
+    },
+    {
+      "numero": 33,
+      "nom": "Ancrage",
+      "slug": "ancrage",
+      "image": "/images/cards/ancrage.jpg",
+      "mots_cles": "Nature - Les Cinq sens - Le vivant",
+      "essence": "S’ancrer c’est se relier au vivant, ce n’est pas s’immobiliser. C’est le lien avec la nature et ses cycles, comme les sorcières pouvaient le vivre, ces femmes de la nature connectées à la Source. La Terre Mère est une alliée précieuse dans cette démarche, et l’arbre un mentor de choix. Comme lui, il faut s’ancrer solidement avec nos racines pour pouvoir monter vers le ciel et trouver la verticalité. S’ancrer, c’est être dans son corps. C’est l’habiter pleinement et être connectée à ses cinq sens. Prêtons attention à nos sensations corporelles pour rester stables et connectées à soi.",
+      "ombre": "Tu te sens déconnectée de toi-même ou des autres. Et si tu as l’impression que tu manques de stabilité, c’est le cas ! L’ancrage te fait clairement défaut. Connecte-toi à la Terre Mère. Offre-toi un grand bol d’air frais. Ressens-le passer par ton nez pour ensuite descendre dans les bronches et enchanter chacune de tes alvéoles pulmonaires. Fais-en une pratique régulière. Passe du temps dehors. Observe la nature et son évolution. Ses changements sont subtils et quotidiens. Les différentes saisons, si distinctes les unes des autres, sont belles et bien reliées. Connecte-toi aussi avec ce qui vit à l’intérieur de toi: tes émotions et tes sensations.",
+      "lumiere": "Une seconde d'inattention suffit pour perdre ton ancrage. C’est ok, tu as simplement besoin de le retrouver et tu connais déjà le chemin. Prends le temps de te ressourcer en parcourant la nature. Tu ne te l’avoues peut-être pas, mais tu en as vraiment besoin. Observe les moments où tu perds ton ancrage pour y mettre de la conscience. En général, c’est lorsque ton mental prend trop de place ou que ton égo veut sur-réagir pour te protéger. Cette carte t’invite à devenir proactive pour rester ancrée malgré les tempêtes. Mets en place une pratique qui te ramène dans ton corps.",
+      "questions": [
+        "Que peux-tu mettre en place régulièrement pour rester ancrée ?",
+        "Qu’est-ce qui te déstabilise ?",
+        "Qu’est-ce qui est vivant en toi en ce moment ?"
+      ],
+      "zero_bullshit": "Connexion à la nature requise ! Dose non homéopathique. 4 fois par jour minimum. Une parenthèse dans la bulle d’un parc peut être tout aussi puissante qu’une immersion au cœur d’une forêt sauvage alors n’essaie même pas de te faire croire que tu n’as pas la possibilité de le faire. Tu peux même passer juste une heure sur ton balcon pour t’occuper du géranium que mamie Ginette t’a offert à Pâques. La nature est partout. Profite de cet instant au vert pour ressentir ton corps et ce qui s’y passe. Si ça te semble trop subtil, renifle un bon coup une poignée d’humus. Ça devrait au moins reconnecter l’odorat."
+    },
+    {
+      "numero": 34,
+      "nom": "La beauté ancrée",
+      "slug": "la-beaute-ancree",
+      "image": "/images/cards/la-beaute-ancree.jpg",
+      "mots_cles": "Confort - Stagnation - Résignation",
+      "essence": "Cette carte fait se côtoyer le sentiment que tout est parfait et que tout va pour le mieux, avec l’insatisfaction et la sensation de manque. Impossible de mettre fin à cette sensation de frustration, apparemment injustifiée, sans reconnaître l’inconfort qui se cache dans le confort. Ce n’est pas le ressenti qui est faux, c’est la lecture de la situation. Ce n’est pas parce que c’était bien avant, que ça l’est encore maintenant. La liberté d’hier s’est transformée en cage aujourd’hui. Et même si la prison est dorée, elle n’en demeure pas moins une prison. Le fait qu’elle soit dorée la rend confortable et d’autant plus difficile à quitter. Voilà le message que cette carte vient nous livrer : en regardant seulement l’or de la prison, nous détournons notre regard de ce qui est le plus important, à savoir, le fait d’être enfermé.",
+      "ombre": "À vouloir voir exclusivement le positif, tu t’empêches de voir ce qui ne l’est pas et donc, ce que tu aimerais changer. Il est facile de se complaire dans un faux confort. Cette carte t’invite à ouvrir les yeux et à accepter de dire ce qui ne va pas. Ce n’est pas être une victime ou se montrer ingrate que de l’exprimer. C’est simplement voir ce qui est, pour le changer et l’améliorer. Arrête de te mentir à toi-même. Assume ce dont tu as vraiment envie pour pouvoir enfin avancer dans la meilleure direction pour toi.",
+      "lumiere": "La beauté est partout, même dans le laid. Arrête d’être une victime. Parfois, il faut faire semblant. Fake it till you make it. C’est ok tant que tu ne perds pas de vue que c’est passager. Il n’y a rien de mal à se forcer à penser positif pour ne plus être submergée par le négatif. Mais rappelle-toi d’arrêter dès que tu as sorti la tête de l’eau. Utilise un instant la capacité de ton mental à te faire oublier ce qui ne va pas pour te concentrer sur ce qui va et avancer.",
+      "questions": [
+        "Dans quel domaine de ta vie vis-tu de la frustration ?",
+        "Quel est ton intérêt à stagner dans cette situation ?",
+        "Qu’est-ce qui se cache derrière l’apparente beauté, l’apparent confort ?"
+      ],
+      "zero_bullshit": "Tu te mens. C’est à double tranchant. Ça peut t’aider à faire passer la pilule, tout comme ça peut te maintenir à l’asile. Tu es assez forte pour discerner ta vérité. Reconnais-la pour pouvoir effectuer le changement nécessaire à ta vie."
+    },
+    {
+      "numero": 35,
+      "nom": "D'une rive à l'autre",
+      "slug": "d-une-rive-a-l-autre",
+      "image": "/images/cards/d-une-rive-a-l-autre.jpg",
+      "mots_cles": "Intention - Agir avec conscience - Garder le cap",
+      "essence": "Nous avons entrepris cette traversée avec une intention claire. La magie est présente partout. Au départ, les auspices étaient bons. Mais maintenant, une brume épaisse et magique s’est levée. Elle empêche toute visibilité et cache la destination. Le doute commence à s’installer et ébranle les convictions. Nous devons à tout prix garder le cap. L’univers se charge du reste.",
+      "ombre": "La brume a eu raison de toi, tu doutes et remets tout en question. C’est ce qui te fait faire du sur place sans même que tu t’en rendes compte. Ce n’est plus le moment de tergiverser mais de te rappeler de ton intention lorsque tu as débuté ce voyage et de t’y tenir ! La magie opère si, et seulement si, tu gardes ton énergie au bon endroit. Redresse la barre et rallume les moteurs !",
+      "lumiere": "Même si tu ne distingues pas encore l’autre rive, pas de panique ! Tout va bien se passer et tu es sur ta voie. Tu la crées au fur et à mesure que tu avances, grâce à ta propre magie en utilisant la puissance de ton intention. Quand ton cap est clair, tu ne peux pas faire fausse route. Continue d’avancer.",
+      "questions": [
+        "Comment peux-tu ajouter de la magie dans ta vie ?",
+        "Quelle était ton intention quand tu as commencé ce voyage ?",
+        "Et si tu étais sûre d’arriver là où tu veux aller, quelle serait ta prochaine action ?"
+      ],
+      "zero_bullshit": "Tout est dans l’intention. Ton intention. Si tu la changes toutes les trois minutes ou si tu l’oublies après le premier pas, bien sûr que tu te perds ! Est-ce que tu changes la destination de ton GPS tous les dix kilomètres ? Bien sûr que non, ça paraît complètement con. C’est pareil pour l’intention. Alors si tu n’es pas capable de t’en souvenir, tu l’écris en grand et tu la gardes tout le temps devant toi."
+    },
+    {
+      "numero": 36,
+      "nom": "La joie du leadership",
+      "slug": "la-joie-du-leadership",
+      "image": "/images/cards/la-joie-du-leadership.jpg",
+      "mots_cles": "Assumer en s’amusant - S’amuser en assumant - Responsabilité",
+      "essence": "Cette carte nous invite à faire des choses sérieuses sans se prendre au sérieux. A prendre des responsabilités sans crouler sous leur poids. Au contraire même, elle invite à le faire avec légèreté. Le vrai leader n’est pas un tyran qui dirige par la peur mais un meneur éclairé et éclairant qui sait motiver ses troupes par la joie et la vision. Il est donc bien naturel qu’il commence par s’amuser en assumant sa place de leader. Ou assumer en s’amusant ? Et si c’était les deux ?",
+      "ombre": "Tu as clairement oublié de sourire en prenant tes responsabilités. Tu veux tenir ton rôle bien comme il faut et ça finit par peser lourd sur tes épaules. Tu fais rimer responsabilité avec sérieux et rigidité. Si tu ne veux pas aller tout droit au burn out, il est temps de ramener de la légèreté dans tout ça. Et pas qu’un peu ! C’est le moment d’ajouter du kif dans ton rôle de leader. Pas à côté, pas à la place mais avec. Le Dalaï Lama est loin d’être un leader chiant. Il guide avec le sourire plus de six cent vingt millions de bouddhistes dans le monde. Rien ne t’interdit de te faire plaisir et de rire tout en remplissant tes devoirs et en tout tenant la barre.",
+      "lumiere": "C’est en partageant ta joie contagieuse que tu es capable d’emmener les gens avec toi. Peut-être te juges-tu parfois comme étant un peu trop extravagante… Ne change rien. Tu es parfaite ! Les gens t’aiment et te suivent pour cela. Ne t’occupe pas de ceux que ça dérange car ils ont besoin de se réconcilier avec la part d’eux qui aime s’amuser. Reconnais que tu es une leader naturelle. Et avoue que, malgré ce que tu essaies de te faire croire, c’est plaisant. Tu réussiras à aller là où tu le souhaites en étant cette leader qui s’assume et qui s’amuse.",
+      "questions": [
+        "Comment peux-tu ajouter du fun dans tes responsabilités ?",
+        "Quelle place peux-tu donner au plaisir dans ton rôle de leader ?",
+        "Que peux-tu assumer en t’amusant ? Où peux-tu t’amuser en assumant ?"
+      ],
+      "zero_bullshit": "Arrête de croire qu’être une leader est incompatible avec le fait de s’amuser ! Tu peux avoir une couronne sur la tête mais pas un balai dans le cul. Ce n’est pas en étant sérieuse que tu réussiras, mais en étant toi-même et en l’assumant. Ramène la joie dans ta vie !"
+    },
+    {
+      "numero": 37,
+      "nom": "Au-delà des apparences",
+      "slug": "au-dela-des-apparences",
+      "image": "/images/cards/au-dela-des-apparences.jpg",
+      "mots_cles": "Masque - Neutralité - Dissimuler",
+      "essence": "Lorsque les sentiments de neutralité prédominent dans notre vie, il est important de se demander si nous sommes capables de traverser les murs. Vraiment. Parce qu’être constamment imperméable à ce qui vient de l’extérieur n’est pas le signe d’une grande sagesse. C’est le signe d’une grosse armure protectrice. L’erreur serait alors de se croire Bouddha alors que la réalité serait plus proche de l’idiote du village.",
+      "ombre": "C’est facile de dire que tu ne ressens rien, ça te permet d’esquiver l’émotion et son intensité. Elle peut être aussi belle que moche mais ça, tu ne pourras le savoir que lorsque tu auras eu le courage de la regarder en face. Arrête de t’éviter et regarde-toi dans un miroir. Ta vérité réside au-delà des beaux discours que tu te répètes à l’infini. Ta vie réside au-delà du masque d’impassibilité que tu as créé pour te protéger. Tu as peur de tes émotions parce que tu t’y attaches et tu leur donnes ton pouvoir. Alors tu préfères te couper d’elles. Mais en faisant cela, tu es comme morte à l’intérieur. Ré-ouvre les vannes et n’aie pas peur. Tu n’es plus cette enfant qui ne peut pas gérer. Ressens la joie. Et lorsqu’elle s’étiole, ne sois pas déçue. Ressens la colère. Et lorsqu’elle brûle, ne te laisse pas consumer. Ressens la tristesse. Et lorsqu’elle t’habite, ne te laisse pas sombrer. Ressens, c’est la vie.",
+      "lumiere": "Tu as la capacité de voir au-delà des masques et des illusions. Tu as accès à ton Moi profond et au monde au-delà des apparences. C’est un cadeau précieux qui te permet d’être en contact avec la réalité. Utilise cette capacité et n’aie pas peur de faire face à l’intensité des émotions cachées sous la surface de l’apparente neutralité. Ne te contente pas de la première réponse, d’un je-ne-sais-pas ou d’un rien. Va plus loin. Tu sais que derrière le rien, il y a forcément quelque chose. Continue de creuser.",
+      "questions": [
+        "Qu’est-ce que tu n’oses pas te dire ?",
+        "A quel désir n’oses-tu pas faire face ?",
+        "Que cache ton apparente neutralité ?"
+      ],
+      "zero_bullshit": "Je vais bien, tout va bien ! Tu peux te répéter cela en boucle autant de fois que tu le veux, tu ne trompes que toi. Arrête de te contenter de ce qui est. Rebranche tes émotions ! Elles t’informent sur tes besoins et tes désirs. Monte sur le rollercoaster* de ta vie et vis tes expériences avec intensité.\n\n*Rollercoaster : grand huit"
+    },
+    {
+      "numero": 38,
+      "nom": "Créer l'invisible",
+      "slug": "creer-l-invisible",
+      "image": "/images/cards/creer-l-invisible.jpg",
+      "mots_cles": "Création sacrée - Inspiration - Donner forme",
+      "essence": "Les idées ne nous appartiennent pas. Elles flottent dans l'éther en attendant d’être captées et transposées dans la matière. Cette carte nous invite à mettre de la conscience et du sacré sur l’acte de création. Elle nous questionne également sur notre capacité à créer à partir du cœur et non pas de l’ego. Créer l’invisible, c’est laisser la part belle à l’inspiration et à l’idée. Notre rôle est d’être un canal pour les capter et ensuite leur donner une forme. L'œuvre est belle lorsque sa créatrice a su s’effacer pour la laisser naître dans son expression la plus pure.",
+      "ombre": "Est-ce que tu connais la différence entre une croûte et une œuvre d’art ? C’est la capacité de l’artiste à capter l’inspiration, à s’effacer pour se laisser traverser par son énergie et lui donner une forme. Elle se met au service de son œuvre au lieu d’essayer d’en faire quelque chose. Vérifie tes intentions lorsque tu crées. Que ce soit une œuvre artistique, un projet professionnel ou même ton attitude face à tes clients, l’espace depuis lequel tu crées n’est pas encore dénué de ton ego qui teinte la mise dans la matière. Ramène le sacré au cœur de ce que tu fais pour que tes créations ne soient pas des coquilles vides ou ébréchées.",
+      "lumiere": "Tu as déjà capté une idée ou été inspirée et tu sens que tu es appelée à cet acte sacré de création. Tu sais que cela demande ta pleine présence. Tu n’as pas besoin de savoir exactement ce que tu vas faire ou quel doit être le résultat, mais simplement de suivre son énergie. Ne repousse plus ce moment. Trouve le temps et l’espace pour le faire. Cette idée est importante. Honore-la et crée.",
+      "questions": [
+        "Quelle est ta véritable intention en créant ce projet ?",
+        "Quelle est cette idée que tu repousses et qui a besoin de voir le jour maintenant ?",
+        "Comment peux-tu mettre du sacré dans ta manière de créer ?"
+      ],
+      "zero_bullshit": "Bon, cette idée, elle ne va pas se mettre dans la matière toute seule. Alors tu me dégages ton ego vite fait bien fait, et tu crées à partir de l’inspiration que tu as reçue, pas à partir de ce que tu penses qu’il serait bien de faire. L’invisible veut prendre forme et c’est à toi, de la lui donner."
+    },
+    {
+      "numero": 39,
+      "nom": "Le tourbillon de la joie",
+      "slug": "le-tourbillon-de-la-joie",
+      "image": "/images/cards/le-tourbillon-de-la-joie.jpg",
+      "mots_cles": "Se laisser emporter - Stabilité - Allégresse",
+      "essence": "La joie est légère et enivrante. La joie rayonne. Elle est intense. Elle met tout en mouvement, dans une spirale qui se crée à partir d’elle. Elle entraîne tout ce qui entre en son contact, comme une tornade. Lorsqu’elle nous emporte, nous avons peur de nous laisser aller et de nous égarer dans ses méandres. En restant centrées, comme dans l'œil du cyclone, nous trouvons en nous la stabilité. Et alors, il n’y a plus aucun risque de nous perdre dans l’intensité du moment.",
+      "ombre": "Tu as peur de te laisser emporter dans le tourbillon de la joie. Tu ne veux pas trop te réjouir car en toi sommeille une croyance qui dit que ça va forcément te tomber dessus à un moment ou à un autre. Pourtant tu sais très bien te réjouir du soleil qui arrive, même s’il est déjà sûr que la pluie le remplacera un jour ou l’autre. Bien sûr que la joie ne dure pas toute la vie. Elle va, elle vient comme toutes choses. Profites-en vraiment sans t’y attacher. Tu ne peux pas la garder indéfiniment. Le contrôle diminue le plaisir, comme pour l’orgasme.",
+      "lumiere": "Sois présente, attentive mais détendue. Ainsi, tu peux te laisser traverser par la joie pour que son intensité rayonne dans tout ton corps. Laisse-la t’emporter. Ça ne veut pas forcément dire de choisir le plaisir immédiat, bien au contraire. Tu dois ressentir autant d’excitation que d’appréhension, car elle peut apporter son lot d’inconfort. Reste bien connectée à cette joie profonde pour ne pas te faire dérouter. Profite.",
+      "questions": [
+        "Qu’est-ce que tu ferais différemment si tu te laissais profiter de la joie du moment ?",
+        "Quelle est la sensation dans ton corps lorsque tu ressens de la joie ?",
+        "C’était quand la dernière fois que tu as ressenti une joie intense ?"
+      ],
+      "zero_bullshit": "Laisse-toi aller à la joie et à son intensité qui peut sembler te faire perdre la tête. Il n’y a pas de mal à se sentir bien et à se réjouir. Tu es là pour jouir de la vie. Alors jouis !"
+    },
+    {
+      "numero": 40,
+      "nom": "La persévérance",
+      "slug": "la-perseverance",
+      "image": "/images/cards/la-perseverance.jpg",
+      "mots_cles": "Longévité - Environnement - Nourrir",
+      "essence": "La persévérance et l’endurance sont la clé d’un projet qui sera mené à son terme. Même si l’idée semble déjà avoir un bel avenir devant elle, sa réussite dépendra de son environnement et des actions mises en place. L’erreur ultime serait de se reposer sur ses lauriers alors que le projet a encore besoin d’être nourri régulièrement. Cette carte est en lien avec l’énergie de la tortue. Elle porte en elle la promesse d’une longue vie mais cette longévité dépend d’un environnement favorable et du soin qu’on lui apporte.",
+      "ombre": "Tu abandonnes bien trop vite ! La persévérance et l’endurance te font défaut aujourd’hui. Et tu te trouves toutes les bonnes excuses pour ne pas agir. Par exemple: tu manques d’énergie, personne ne te soutient, la santé ne suit pas, tu n’es pas au bon endroit, tu penses que tu n’es pas légitime, etc. En fait, ton environnement - entends par là lieu, personnes, alimentation, sommeil, croyances, etc. - ne te soutient pas suffisamment. C’est à toi de le changer pour mettre en place cette discipline qui t’amènera, à terme, à la réussite et à la liberté que tu cherches.",
+      "lumiere": "Continue. Ton succès dépend de ta capacité à persévérer et apprendre de tes échecs. Tu l’as compris, ton environnement joue un rôle majeur. Prends-en soin. Mets en place des stratégies pour te faciliter la vie et t’aider à continuer même quand tu n’en as pas envie. Par exemple, tu pourrais avoir un personal trainer qui vient à domicile plutôt qu’un abonnement au fitness, afin de t’assurer de faire du sport, même les jours où la motivation n’est pas là.",
+      "questions": [
+        "Que peux-tu mettre en place pour favoriser l’endurance dans tes actions ?",
+        "Que dois-tu changer dans ton environnement pour retrouver la persévérance ?",
+        "Comment peux-tu nourrir ton projet quotidiennement et facilement ?"
+      ],
+      "zero_bullshit": "Ne te repose pas sur tes lauriers ! Ou ne te plains pas que ça n’avance pas. Ta persévérance est la clé de ton succès. Et la persévérance, c’est quand tu fais, même quand tu n’as pas la motivation. C’est quand tu te relèves une huitième fois après une septième chute. Ne te laisse pas d’autre choix que celui de continuer. Mets tout en place pour y arriver."
+    },
+    {
+      "numero": 41,
+      "nom": "Ouvrir son coeur",
+      "slug": "ouvrir-son-coeur",
+      "image": "/images/cards/ouvrir-son-coeur.jpg",
+      "mots_cles": "Discipline - Recevoir - Vulnérabilité",
+      "essence": "Que ce soit en tant qu’organe physique, émotionnel ou énergétique, la puissance du cœur n’est plus à démontrer. Lorsqu’il est ouvert, il peut créer l’impossible. Il est un point pivot qui permet de relier les chakras du bas du corps à ceux du haut. Cette carte nous invite à enlever notre carapace pour nous montrer comme nous sommes, avec vulnérabilité. En alignant notre cœur sur les trois plans (physique, émotionnel et énergétique) en même temps, nous avons alors accès à la véritable abondance.",
+      "ombre": "Ce n’est pas en criant sur tous les toits que tu es authentique et vulnérable que tu l’es. Ces qualités-là ne peuvent pas être forcées parce qu’elles prennent leur source directement dans ton cœur. Tu as l’impression de donner, toujours donner mais de ne rien recevoir en retour. En réalité, ta manière de donner et ta manière de recevoir ne viennent pas du cœur, car le tien est fermé. Est-ce par peur d’être abusée, d’être rejetée, d’être blessée ? Tu es la seule à avoir la réponse. Tant que tu te protèges, ton cœur reste fermé. Sache que ta véritable puissance réside dans ta capacité à être vulnérable et authentique envers toi-même et le monde.",
+      "lumiere": "Tu as besoin d’ouvrir ton cœur sur tous les plans pour que ton alignement intérieur soit total et éviter d’être en déséquilibre. Il est nécessaire de mettre en place dans ta vie des pratiques et des disciplines pour ton corps (plan physique), tes émotions et ton champ énergétique.\n\nLe yoga ou le chant permettent l'ouverture du cœur au niveau physique. Tu peux y associer le fait de reconnaître les émotions qui te traversent et les laisser passer. Et pourquoi pas, ne pas en profiter pour prendre soin de ton champ énergétique en bénéficiant de soins ou en pratiquant de la visualisation?",
+      "questions": [
+        "Que peux-tu mettre en place quotidiennement pour favoriser l’ouverture du cœur ?",
+        "Quelle décision dois-tu prendre pour ouvrir le canal du recevoir et de l’abondance en toi ?",
+        "Sur lequel des trois plans ton cœur a besoin d’être ouvert en priorité ?"
+      ],
+      "zero_bullshit": "Ouvre ton coeur ! Si cela te fait te sentir vulnérable, tu es au bon endroit. N’aie pas peur de ta vulnérabilité. Elle est garante de ton authenticité et de ta puissance. Aligne-toi sur les trois plans. Et prépare-toi à recevoir. L’abondance vient à celles qui ont le cœur ouvert, car c’est ce dont le monde a besoin."
+    },
+    {
+      "numero": 42,
+      "nom": "Dans le corps",
+      "slug": "dans-le-corps",
+      "image": "/images/cards/dans-le-corps.jpg",
+      "mots_cles": "Pratique - Intégration - Transformation",
+      "essence": "Toute la théorie du monde ne vaut rien sans la pratique. C’est en passant à l’action concrète que la magie opère car l’âme agit. Il y a deux types d’informations : l’information qui informe et l’information qui transforme. La différence entre les deux n’est pas dans leur essence mais dans la personne qui les reçoit et ce qu’elle en fait. La vraie transformation se vit dans le corps. Tant que l’information demeure au niveau intellectuel, c’est un savoir qui reste théorique car il ne permet que de voir ça. Quand elle s’intègre au niveau cellulaire, elle devient connaissance et permet à celle qui la détient de (re)naître avec (co-naître) cette sagesse.",
+      "ombre": "Tu crois que plus tu en sais, mieux ce sera. Alors tu veux en savoir plus et tu cherches toujours la nouvelle formation, le nouvel outil, l’article ou le livre qui t’en dira plus. Mais cette course effrénée ne te mène nulle part car tu tournes en rond. Arrête. Il n’est plus temps d’apprendre, il est temps de pratiquer. Comme l’apprenti qui a regardé son maître travailler pendant des années, tu dois maintenant cesser d’observer pour prendre en main les outils. C’est le moment de l’expérimentation.",
+      "lumiere": "Tu connais déjà le chemin de la transformation et de l’intégration jusque dans ton corps. C’est ce qui t’est demandé de faire maintenant sur ce sujet. C’est en validant cette transformation que tu vas pouvoir avancer réellement. Si tu ne sais pas comment faire, commence par te faire confiance. Tu as déjà fait un premier pas mais seul il ne suffit pas. Continue. Pratique. Pratique. Pratique encore. Jusqu’à ce que tu le sentes dans tes cellules.",
+      "questions": [
+        "Quel est ce concept que tu as entendu mille fois mais que tu n’es toujours pas sûre de comprendre ?",
+        "Quelle pratique peux-tu mettre en place quotidiennement pour intégrer ?",
+        "Qu’est-ce que tu essaies encore d’apprendre alors que tu as besoin de passer à l’expérience ?"
+      ],
+      "zero_bullshit": "Ce n’est pas une formation de plus qui va changer ta vie. Ce n’est pas parce que tu sais déjà que tu es passée maître en la matière. La vérité, c’est que même si tu t’es enfilé l’Encyclopédie en 12 volumes mais que tu n’es jamais sortie de chez toi, tu ne connais rien de la vie. Alors maintenant tu arrêtes de chercher à savoir et à comprendre et tu te mets au boulot ! T’es pas au courant ? Trop d’informations tue l’information. Sors la tête des bouquins et mets en pratique !"
+    }
+  ],
+  "total": 42
+}

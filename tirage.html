@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tirage en ligne · D’une Rive à l’Autre | Caroline Verdier</title>
+    <meta name="description" content="Un tirage de trois cartes de l’oracle D’une Rive à l’Autre : ta situation, ce qui te bloque et le conseil à suivre." />
+    <link rel="canonical" href="https://carolineverdier.com/tirage" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="/oracle.css?v=caroline" />
+    <script src="/tirage.js" defer></script>
+  </head>
+  <body class="oracle-page oracle-draw-page">
+    <a class="oracle-skip" href="#contenu">Aller au contenu</a>
+    <header class="oracle-header"><nav class="nav" aria-label="Navigation principale"><a class="brand" href="/" aria-label="Caroline Verdier, accueil"><img class="brand-logo" src="/assets/logo-caroline-verdier.png" alt="Caroline Verdier" /></a><div class="oracle-nav-links"><a href="/oracle-dunerivealautre.html">Découvrir l’oracle</a></div></nav></header>
+    <main class="oracle-section oracle-draw" id="contenu">
+      <div class="oracle-draw-intro"><p class="eyebrow">Oracle D’une Rive à l’Autre</p><h1>Tirage<br /><em>de l’oracle.</em></h1><p class="oracle-lead">3 cartes pour voir clair : ta situation, ce qui te bloque, le conseil à suivre.</p></div>
+      <div class="oracle-draw-controls"><button class="button primary" id="drawBtn" type="button" disabled>Chargement des cartes…</button><button class="oracle-sound" id="soundToggle" type="button" aria-pressed="false">Activer le son</button></div>
+      <p id="phaseText" class="oracle-phase" role="status" aria-live="polite"></p>
+      <div class="oracle-draw-grid" id="cardArea" aria-busy="false">
+        <article class="oracle-card" aria-labelledby="situation-title"><h2 id="situation-title">Situation</h2><div class="oracle-card-slot"><div class="oracle-card-inner"><div class="oracle-card-face oracle-card-back"></div><div class="oracle-card-face oracle-card-front"></div></div></div><div class="oracle-reading" hidden></div></article>
+        <article class="oracle-card" aria-labelledby="blocage-title"><h2 id="blocage-title">Blocage</h2><div class="oracle-card-slot"><div class="oracle-card-inner"><div class="oracle-card-face oracle-card-back"></div><div class="oracle-card-face oracle-card-front"></div></div></div><div class="oracle-reading" hidden></div></article>
+        <article class="oracle-card" aria-labelledby="conseil-title"><h2 id="conseil-title">Conseil</h2><div class="oracle-card-slot"><div class="oracle-card-inner"><div class="oracle-card-face oracle-card-back"></div><div class="oracle-card-face oracle-card-front"></div></div></div><div class="oracle-reading" hidden></div></article>
+      </div>
+      <div class="oracle-draw-bottom" id="bottomCta" hidden><button class="button primary" id="newDrawBtn" type="button">Nouveau tirage</button><p>Envie de poursuivre l’expérience avec le jeu ?</p><a href="/oracle-dunerivealautre.html">Découvrir l’oracle D’une Rive à l’Autre</a></div>
+      <p class="oracle-small oracle-draw-boundary">Les cartes ouvrent une conversation avec toi-même. Elles ne décident pas à ta place et ne remplacent pas un accompagnement spécialisé.</p>
+      <noscript><p>Active JavaScript pour tirer les cartes, ou <a href="/oracle-dunerivealautre.html">découvre l’oracle et son histoire</a>.</p></noscript>
+    </main>
+    <footer class="footer"><p>© 2018-2026 Caroline Verdier</p><p><a href="/mentions-legales">Mentions légales</a> · <a href="/conditions-generales-de-vente">CGV</a> · <a href="/politique-confidentialite">Confidentialité</a></p></footer>
+  </body>
+</html>

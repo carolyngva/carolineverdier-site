@@ -7,6 +7,10 @@ const PUBLIC_FILES = new Set([
   "/team-love.html",
   "/team-love.css",
   "/team-love.js",
+  "/oracle-dunerivealautre.html",
+  "/tirage.html",
+  "/oracle.css",
+  "/tirage.js",
   "/mentions-legales.html",
   "/conditions-generales-de-vente.html",
   "/politique-confidentialite.html",
@@ -21,6 +25,11 @@ export default {
 
     if (url.pathname === "/") {
       url.pathname = "/index.html";
+      return env.ASSETS.fetch(new Request(url, request));
+    }
+
+    if (["/oracle-dunerivealautre", "/oracle-dunerivealautre/", "/tirage", "/tirage/"].includes(url.pathname)) {
+      url.pathname = `${url.pathname.replace(/\/$/, "")}.html`;
       return env.ASSETS.fetch(new Request(url, request));
     }
 

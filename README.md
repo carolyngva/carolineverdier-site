@@ -10,7 +10,17 @@ Mini-site statique V1 pour `carolineverdier.com`, construit d'abord autour de la
 - En local avec `python3 -m http.server`, ouvrir `/love-blueprint.html` car le routage Worker n'est pas actif.
 - Pour la maquette Happy Together, ouvrir `/happy-together.html`.
 
-## Stack
+## Reprise de l'oracle (version locale)
+
+- `/oracle-dunerivealautre` et `/oracle-dunerivealautre/` : contenu de la page actuelle de L'Atelier de Lucette, habillage Caroline Verdier. Prix public de 97 CHF, formation, livraison et lien Stripe repris sans modifier le paiement.
+- `/tirage` et `/tirage/` : tirage de trois cartes distinctes parmi les 42 cartes originales ; situation, blocage, conseil et questions. Nouveau tirage, animation et audio optionnel, réduction des animations respectée.
+- Aperçus sur le serveur Python : `/oracle-dunerivealautre.html` et `/tirage.html`.
+- Photos, 17 témoignages, images des cartes, données originales et deux audios sont autonomes dans `assets/oracle/`. Aucun chargement ne dépend de l'ancien domaine.
+- Les textes originaux des cartes sont conservés, y compris leurs formulations au féminin. Le lien final du tirage mène maintenant à la présentation de l'oracle, plutôt qu'au mini-rituel non migré.
+- Aucune redirection de `latelierdelucette.com`, modification DNS ou publication effectuée. Après validation et déploiement, prévoir les redirections spécifiques des anciennes pages oracle et tirage vers leurs nouvelles URL, avant une éventuelle redirection générale.
+- Avant bascule : vérifier les pages de retour et la livraison des accès après paiement Stripe, ainsi que les conditions de vente de produits physiques (les CGV actuelles Caroline Verdier portent principalement sur les prestations). Ne pas perdre les anciennes modalités de retour de l'oracle lors de la migration.
+
+## Stack technique
 
 - HTML statique
 - CSS natif

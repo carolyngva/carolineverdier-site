@@ -1,0 +1,112 @@
+.oracle-page { background: var(--black-soft); color: var(--warm-white); -webkit-font-smoothing: antialiased; }
+.oracle-page [hidden] { display: none !important; }
+.oracle-page h1 { font-size: clamp(44px, 5.8vw, 86px); line-height: 1; letter-spacing: -.045em; }
+.oracle-page h2 { font-size: clamp(30px, 3.4vw, 50px); line-height: 1.1; letter-spacing: -.035em; }
+.oracle-page h2 em { font-family: var(--title); font-weight: 400; text-transform: none; font-size: 1.15em; }
+.oracle-page p { line-height: 1.5; }
+.oracle-page a:focus-visible, .oracle-page button:focus-visible { outline: 2px solid var(--gold); outline-offset: 6px; }
+.oracle-skip { position: absolute; z-index: 5; top: 10px; left: 10px; padding: 12px 20px; color: var(--black); background: var(--paper); transform: translateY(-160%); }
+.oracle-skip:focus { transform: none; }
+.oracle-header { padding: clamp(24px, 4vw, 56px); background: radial-gradient(ellipse at 0 100%, rgba(143,29,44,.3), transparent 65%), #100c0c; }
+.oracle-nav-links { display: flex; flex-wrap: wrap; gap: 18px 32px; font: 500 12px/1.6 var(--text); }
+.oracle-nav-links a { text-decoration-thickness: 1px; text-underline-offset: 6px; }
+.oracle-hero { display: grid; grid-template-columns: 1.1fr .9fr; gap: 6vw; align-items: center; max-width: 1440px; margin: 90px auto 30px; }
+.oracle-lead { font-size: clamp(25px, 2.3vw, 34px); }
+.oracle-subtitle { color: #d4b885; font-size: clamp(23px, 2vw, 30px); font-style: italic; }
+.oracle-product { margin: 0; border: 1px solid rgba(184,150,78,.4); box-shadow: 18px 18px 0 rgba(143,29,44,.35); }
+.oracle-product img { width: 100%; height: auto; display: block; }
+.oracle-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 24px; margin-top: 32px; }
+.oracle-actions .button, .oracle-offer .button { width: fit-content; }
+.oracle-section { padding: clamp(64px, 8vw, 120px) max(24px, 8vw); }
+.oracle-narrow { max-width: 820px; margin-inline: auto; }
+.oracle-light { color: var(--black); background: linear-gradient(rgba(246,240,234,.9), rgba(246,240,234,.88)), url('/assets/ombre-texture (1).jpg') center / cover; }
+.oracle-light .eyebrow { color: var(--gold-dark); }
+.oracle-section blockquote { margin: 48px 0 0; padding-left: 28px; border-left: 2px solid var(--red); font-size: clamp(28px, 3vw, 40px); font-style: italic; }
+.oracle-specs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; margin-block: 40px; }
+.oracle-specs > * { border-top: 1px solid currentColor; padding-top: 24px; }
+.oracle-specs h3 { font-size: 16px; }
+.oracle-book { max-width: 480px; margin: 60px auto 0; }
+.oracle-book img { width: 100%; display: block; }
+.oracle-book figcaption { text-align: center; font-style: italic; margin-top: 16px; }
+.oracle-creation { display: grid; grid-template-columns: .8fr 1.2fr; gap: 6vw; align-items: center; }
+.oracle-creation > img { width: 100%; max-height: 680px; object-fit: cover; object-position: center 30%; }
+.oracle-offer { background: linear-gradient(125deg, #751925, #4b101b); }
+.oracle-offer .eyebrow { color: #e0c5a1; }
+.oracle-offer .button { background: var(--paper); color: var(--red); }
+.oracle-offer h3 { font-size: 17px; line-height: 1.4; }
+.oracle-offer-layout { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(260px, .8fr); gap: clamp(36px, 6vw, 90px); max-width: 1200px; margin-inline: auto; align-items: start; }
+.oracle-includes { padding-left: 1.1em; margin-bottom: 24px; }
+.oracle-includes li + li { margin-top: 12px; }
+.oracle-training { border-top: 1px solid rgba(244,244,241,.25); padding-top: 18px; }
+.oracle-training summary { cursor: pointer; font: 500 13px/1.6 var(--text); }
+.oracle-training summary:focus-visible { outline: 2px solid var(--gold); outline-offset: 6px; }
+.oracle-training .oracle-modules { margin-top: 24px; }
+.oracle-purchase { border-left: 1px solid rgba(244,244,241,.25); padding-left: clamp(24px, 3vw, 44px); }
+.oracle-purchase .oracle-price { margin-top: 0; line-height: 1.1; }
+.oracle-purchase .button { width: 100%; margin-top: 16px; }
+.oracle-modules { padding-left: 1.2em; }
+.oracle-modules li { padding-left: 8px; margin-bottom: 14px; }
+.oracle-price { font-size: 76px; margin: 48px 0 0; }
+.oracle-price span { font: 500 18px/1.5 var(--text); }
+.oracle-small { font: 400 13px/1.7 var(--text); opacity: .8; margin-top: 24px; }
+.oracle-testimonials { columns: 2; column-gap: 28px; margin-top: 48px; }
+.oracle-testimonials > a { display: block; break-inside: avoid; margin-bottom: 28px; }
+.oracle-testimonials img { display: block; width: 100%; height: auto; }
+.oracle-final { text-align: center; }
+.oracle-final > p { max-width: 700px; margin-inline: auto; }
+.oracle-final .oracle-actions { justify-content: center; }
+.oracle-disclaimer { padding-block: 36px; border-top: 1px solid var(--line-dark); font-size: 18px; color: #d2cbc6; }
+.oracle-disclaimer summary { cursor: pointer; color: #d4b885; padding-block: 12px; }
+.oracle-disclaimer details > div { max-width: 1000px; margin-top: 24px; }
+.oracle-disclaimer summary:focus-visible { outline: 2px solid var(--gold); outline-offset: 6px; }
+.oracle-draw-page .oracle-header { border-bottom: 1px solid var(--line-dark); }
+.oracle-draw-intro { max-width: 760px; margin-inline: auto; text-align: center; }
+.oracle-draw-controls { display: flex; justify-content: center; flex-wrap: wrap; gap: 24px; align-items: center; margin-top: 40px; }
+.oracle-draw-controls .button { width: auto; }
+.oracle-sound { background: transparent; color: inherit; border: 0; border-bottom: 1px solid var(--gold); padding: 12px 0; cursor: pointer; font: 400 13px/1.6 var(--text); }
+.oracle-phase { min-height: 30px; margin: 24px auto 40px; text-align: center; color: #d4b885; }
+.oracle-draw-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(20px, 3vw, 50px); align-items: start; }
+.oracle-card { min-width: 0; }
+.oracle-card > h2 { font: 500 12px/1.6 var(--text); letter-spacing: .15em; color: #d4b885; text-align: center; margin-bottom: 24px; }
+.oracle-card-slot { perspective: 1200px; width: min(100%, 320px); aspect-ratio: 1 / 1.4; margin: 0 auto; }
+.oracle-card-inner { position: relative; width: 100%; height: 100%; transition: transform .8s ease; transform-style: preserve-3d; }
+.oracle-card-inner.flipped { transform: rotateY(180deg); }
+.oracle-card-face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; border-radius: 8px; overflow: hidden; }
+.oracle-card-back { background: url('/assets/oracle/cards/card-back.png') center / cover; }
+.oracle-card-front { transform: rotateY(180deg); background: var(--paper); color: var(--black); display: grid; place-items: center; text-align: center; }
+.oracle-card-front img { width: 100%; height: 100%; object-fit: cover; }
+.oracle-reading { margin-top: 28px; padding: clamp(18px, 2vw, 28px); background: var(--paper); color: var(--black); overflow-wrap: anywhere; }
+.oracle-reading h3 { color: var(--red); font-size: 16px; line-height: 1.5; }
+.oracle-reading h4 { font: 600 13px/1.5 var(--text); margin-bottom: 12px; }
+.oracle-reading .oracle-keywords { font: 400 11px/1.8 var(--text); color: #665746; }
+.oracle-reading ul { padding-left: 1.1em; }
+.oracle-reading li + li { margin-top: 12px; }
+.oracle-draw-bottom { text-align: center; margin-top: 64px; }
+.oracle-draw-bottom .button { width: auto; margin-bottom: 24px; }
+.oracle-draw-boundary { text-align: center; max-width: 650px; margin: 60px auto 0; }
+.oracle-draw-grid.is-shuffling .oracle-card-inner { animation: oracle-shuffle .8s ease-in-out infinite alternate; }
+@keyframes oracle-shuffle { from { transform: translateY(0) rotate(-3deg); } to { transform: translateY(-16px) rotate(3deg); } }
+@media (max-width: 1000px) {
+  .oracle-hero, .oracle-creation { grid-template-columns: 1fr; }
+  .oracle-hero { margin-top: 60px; }
+  .oracle-product { max-width: 580px; margin: 20px auto; }
+  .oracle-creation > img { max-width: 460px; }
+  .oracle-offer-layout { grid-template-columns: 1fr; }
+  .oracle-purchase { border-left: 0; border-top: 1px solid rgba(244,244,241,.25); padding: 28px 0 0; }
+  .oracle-purchase .button { width: auto; min-width: 240px; }
+}
+@media (max-width: 700px) {
+  .oracle-page .nav { flex-wrap: wrap; }
+  .oracle-nav-links { font-size: 11px; }
+  .oracle-specs, .oracle-draw-grid { grid-template-columns: 1fr; }
+  .oracle-testimonials { columns: 1; }
+  .oracle-specs { gap: 12px; }
+  .oracle-draw-grid { gap: 48px; }
+  .oracle-card-slot { width: min(70vw, 260px); }
+  .oracle-product { box-shadow: 10px 10px 0 rgba(143,29,44,.35); }
+}
+@media (prefers-reduced-motion: reduce) {
+  html:has(.oracle-page) { scroll-behavior: auto; }
+  .oracle-card-inner { transition: none; }
+  .oracle-draw-grid.is-shuffling .oracle-card-inner { animation: none; }
+}
