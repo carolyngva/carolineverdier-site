@@ -4,9 +4,11 @@ Mini-site statique V1 pour `carolineverdier.com`, construit d'abord autour de la
 
 ## Pages
 
-- `/` redirige vers `/love-blueprint`.
+- `/` présente Love School : vision, quatre enseignements, présentation de Caroline et liste d'attente. Nouvelle version locale, non publiée.
 - `/love-blueprint` sert la page d'attente Love Blueprint via le Worker Cloudflare.
+- `/happy-together` présente Happy Together, édition 2027, sans inscription ni paiement. Cette nouvelle page reste locale jusqu'à validation et déploiement explicites.
 - En local avec `python3 -m http.server`, ouvrir `/love-blueprint.html` car le routage Worker n'est pas actif.
+- Pour la maquette Happy Together, ouvrir `/happy-together.html`.
 
 ## Stack
 
@@ -25,7 +27,9 @@ https://automate.carolineverdier.com/webhook/love-blueprint-waitlist
 
 Workflow n8n : `Love Blueprint Waitlist` (`ETa718jy79OLOFBf`).
 
-État actuel : workflow créé, valide et inactif. Le node NocoDB est branché sur la table `Leads Love Blueprint`.
+État vérifié le 13 novembre 2026 : workflow actif. Le node NocoDB est branché sur la table `Leads Love Blueprint` et Mautic applique encore le tag fixe `love-blueprint-waitlist`. Aucun changement distant effectué lors de la préparation de l'accueil Love School.
+
+Avant publication de l'accueil : adapter le classement Mautic à Love School et vérifier les éventuelles campagnes liées au tag historique. Le nouveau formulaire envoie `source: love-school-waitlist` au webhook existant, qui conserve cette valeur dans NocoDB. Son consentement et sa confirmation affichent Love School. Tester le formulaire de bout en bout après adaptation ; les tests locaux interceptent le réseau sans créer de contact réel.
 
 Payload envoyé :
 
@@ -58,7 +62,7 @@ python3 -m http.server 8791
 Puis ouvrir :
 
 ```text
-http://localhost:8791/love-blueprint.html
+http://localhost:8791/
 ```
 
 ## Vérification

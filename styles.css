@@ -760,6 +760,21 @@ input:focus {
   margin-top: 24px;
 }
 
+.school-programs article {
+  min-height: 240px;
+  opacity: 1;
+  transform: none;
+}
+
+.school-programs h3 {
+  color: var(--red);
+}
+
+.school-programs .program-status {
+  color: rgba(11, 9, 9, 0.6);
+  font-style: italic;
+}
+
 .proof-section {
   display: grid;
   gap: clamp(28px, 5vw, 64px);

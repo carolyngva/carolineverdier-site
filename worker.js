@@ -1,6 +1,12 @@
 const PUBLIC_FILES = new Set([
   "/index.html",
   "/love-blueprint.html",
+  "/happy-together.html",
+  "/happy-together.css",
+  "/happy-together.js",
+  "/team-love.html",
+  "/team-love.css",
+  "/team-love.js",
   "/mentions-legales.html",
   "/conditions-generales-de-vente.html",
   "/politique-confidentialite.html",
@@ -20,6 +26,16 @@ export default {
 
     if (url.pathname === "/love-blueprint") {
       url.pathname = "/love-blueprint.html";
+      return env.ASSETS.fetch(new Request(url, request));
+    }
+
+    if (url.pathname === "/happy-together") {
+      url.pathname = "/happy-together.html";
+      return env.ASSETS.fetch(new Request(url, request));
+    }
+
+    if (url.pathname === "/team-love") {
+      url.pathname = "/team-love.html";
       return env.ASSETS.fetch(new Request(url, request));
     }
 

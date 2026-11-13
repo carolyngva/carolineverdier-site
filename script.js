@@ -17,7 +17,7 @@ function buildPayload(form) {
     prenom: String(formData.get("prenom") || "").trim(),
     email: String(formData.get("email") || "").trim().toLowerCase(),
     consentement: formData.get("consentement") === "on",
-    source: "love-blueprint-waitlist",
+    source: form.dataset.waitlistSource || "love-blueprint-waitlist",
     page_url: window.location.href,
     form_location: form.dataset.formLocation || "unknown",
     contact_timeframe: String(formData.get("contact_timeframe") || "").trim(),
@@ -62,7 +62,7 @@ async function submitWaitlist(event) {
 
     form.reset();
     button.textContent = "Inscription confirmée";
-    setMessage(form, "Merci. Tu es bien inscrite sur la liste d'attente Love Blueprint.");
+    setMessage(form, `Merci. Ton inscription sur la liste d’attente ${form.dataset.waitlistName || "Love Blueprint"} est confirmée.`);
   } catch (error) {
     console.error(error);
     button.disabled = false;

@@ -7,6 +7,12 @@ const dist = path.join(root, "dist");
 const files = [
   "index.html",
   "love-blueprint.html",
+  "happy-together.html",
+  "happy-together.css",
+  "happy-together.js",
+  "team-love.html",
+  "team-love.css",
+  "team-love.js",
   "mentions-legales.html",
   "conditions-generales-de-vente.html",
   "politique-confidentialite.html",
