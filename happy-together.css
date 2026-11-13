@@ -168,6 +168,10 @@
 .ht-offer ul { padding-left: 1.1em; margin-bottom: 0; color: #d2cbc6; }
 .ht-offer li + li { margin-top: 16px; }
 .ht-couple-note { max-width: 800px; margin: 40px 0 0; color: #d2cbc6; }
+.ht-enroll { margin-top: 36px; }
+.ht-checkout-link { display: inline-flex; align-items: center; justify-content: center; max-width: 100%; min-height: 52px; padding: 17px 30px; border: 1px solid #a13745; border-radius: 999px; background: #8f1d2c; color: #f6f0ea; font: 500 14px/1.5 var(--text); text-align: center; text-decoration: none; transition: background 180ms ease; }
+.ht-checkout-link:hover { background: #681420; }
+.ht-enroll-note { margin: 16px 0 0; color: #bfb6af; font: 400 13px/1.7 var(--text); }
 
 .ht-closing { text-align: center; background: radial-gradient(ellipse at 50% 100%, rgba(104,20,32,.25), transparent 65%), #0b0909; }
 .ht-closing > .ht-label { color: var(--ht-gold); margin-bottom: 38px; }
