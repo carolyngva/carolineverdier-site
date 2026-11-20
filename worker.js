@@ -16,6 +16,7 @@ const PUBLIC_FILES = new Set([
   "/politique-confidentialite.html",
   "/styles.css",
   "/script.js",
+  "/analytics.js",
   "/favicon.svg",
 ]);
 

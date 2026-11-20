@@ -83,6 +83,14 @@ npm run build
 
 Le build reconstruit `dist/` depuis les fichiers source et `assets/`.
 
+## Mesure d'audience
+
+Le build ajoute `analytics.js` à toutes les pages publiques. Google Analytics utilise l'identifiant `G-S6H3X86TX3`, uniquement sur les domaines de production et après acceptation explicite. Aucun appel Google Analytics n'est émis avant acceptation. Le bouton de confidentialité permet de refuser ou retirer ce choix.
+
+Pour exclure ses visites, ouvrir `https://carolineverdier.com/?analytics=off` sur chaque navigateur et appareil utilisé. Le choix reste local au navigateur (hors navigation privée et après effacement du stockage). `?analytics=on` réautorise la mesure, toujours sous réserve du consentement. Cette exclusion concerne Google Analytics, pas Cloudflare.
+
+Dans le flux Web GA4, désactiver la mesure améliorée automatique si seules les pages vues sont souhaitées : les événements automatiques Google peuvent inclure des URL et paramètres que le site ne contrôle pas. Vérifier aussi la durée de conservation et les réglages de partage des données dans l'administration Google Analytics.
+
 ## Déploiement automatique
 
 Le workflow GitHub Actions `.github/workflows/deploy.yml` déploie automatiquement sur Cloudflare à chaque push sur `main`.

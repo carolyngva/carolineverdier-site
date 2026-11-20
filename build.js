@@ -22,6 +22,7 @@ const files = [
   "politique-confidentialite.html",
   "styles.css",
   "script.js",
+  "analytics.js",
   "favicon.svg",
 ];
 
@@ -29,7 +30,12 @@ fs.rmSync(dist, { recursive: true, force: true });
 fs.mkdirSync(dist, { recursive: true });
 
 for (const file of files) {
-  fs.copyFileSync(path.join(root, file), path.join(dist, file));
+  if (file.endsWith(".html")) {
+    const html = fs.readFileSync(path.join(root, file), "utf8");
+    fs.writeFileSync(path.join(dist, file), html.replace("</head>", '<script src="/analytics.js" defer></script>\n  </head>'));
+  } else {
+    fs.copyFileSync(path.join(root, file), path.join(dist, file));
+  }
 }
 
 fs.cpSync(path.join(root, "assets"), path.join(dist, "assets"), { recursive: true });

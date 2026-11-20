@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "node --check script.js && node --check happy-together.js && node --check tirage.js && node --check build.js && node build.js",
+    "build": "node --check analytics.js && node --check script.js && node --check happy-together.js && node --check tirage.js && node --check build.js && node build.js",
     "predeploy": "npm run build",
     "deploy": "wrangler deploy"
   },
